@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 0,
+    "name_en": "tench, Tinca tinca",
+    "name_cn": "丁鳅, 丁鳅"
+  },
+  {
+    "id": 1,
+    "name_en": "goldfish, Carassius auratus",
+    "name_cn": "金鱼、鲫鱼"
+  },
+  {
+    "id": 2,
+    "name_en": "great white shark, white shark, man-eater, man-eating shark, Carcharodon caharias',",
+    "name_cn": "大白鲨、白鲨、食人鲨、食人鲨、Carcharodon caharias'、"
+  },
+  {
+    "id": 3,
+    "name_en": "tiger shark, Galeocerdo cuvieri",
+    "name_cn": "虎鲨、Galeocerdo cuvieri"
+  },
+  {
+    "id": 4,
+    "name_en": "hammerhead, hammerhead shark",
+    "name_cn": "双髻鲨，双髻鲨"
+  },
+  {
+    "id": 5,
+    "name_en": "electric ray, crampfish, numbfish, torpedo",
+    "name_cn": "电鳐、钳鱼、麻鱼、鱼雷"
+  },
+  {
+    "id": 6,
+    "name_en": "stingray",
+    "name_cn": "黄貂鱼"
+  },
+  {
+    "id": 7,
+    "name_en": "cock",
+    "name_cn": "公鸡"
+  },
+  {
+    "id": 8,
+    "name_en": "hen",
+    "name_cn": "母鸡"
+  },
+  {
+    "id": 9,
+    "name_en": "ostrich, Struthio camelus",
+    "name_cn": "鸵鸟、鸵鸟"
+  },
+  {
+    "id": 10,
+    "name_en": "brambling, Fringilla montifringilla",
+    "name_cn": "燕雀 (Fringilla montifringilla)"
+  },
+  {
+    "id": 11,
+    "name_en": "goldfinch, Carduelis carduelis",
+    "name_cn": "金翅雀, 金翅雀, 金翅雀"
+  },
+  {
+    "id": 12,
+    "name_en": "house finch, linnet, Carpodacus mexicanus",
+    "name_cn": "家雀、红雀、Carpodacus mexicanus"
+  },
+  {
+    "id": 13,
+    "name_en": "junco, snowbird",
+    "name_cn": "琼科、雪鸟"
+  },
+  {
+    "id": 14,
+    "name_en": "indigo bunting, indigo finch, indigo bird, Passerina cyanea",
+    "name_cn": "靛蓝鹀、靛蓝雀、靛蓝鸟、雀鸟"
+  },
+  {
+    "id": 15,
+    "name_en": "robin, American robin, Turdus migratorius",
+    "name_cn": "知更鸟、美国知更鸟、Turdus migratorius"
+  },
+  {
+    "id": 16,
+    "name_en": "bulbul",
+    "name_cn": "鹎"
+  },
+  {
+    "id": 17,
+    "name_en": "jay",
+    "name_cn": "杰伊"
+  },
+  {
+    "id": 18,
+    "name_en": "magpie",
+    "name_cn": "鹊"
+  },
+  {
+    "id": 19,
+    "name_en": "chickadee",
+    "name_cn": "山雀"
+  },
+  {
+    "id": 20,
+    "name_en": "water ouzel, dipper",
+    "name_cn": "水 ouzel, 北斗七星"
+  },
+  {
+    "id": 21,
+    "name_en": "kite",
+    "name_cn": "风筝"
+  },
+  {
+    "id": 22,
+    "name_en": "bald eagle, American eagle, Haliaeetus leucocephalus",
+    "name_cn": "秃鹰、美洲雕、Haliaeetus leucocephalus"
+  },
+  {
+    "id": 23,
+    "name_en": "vulture",
+    "name_cn": "秃鹫"
+  },
+  {
+    "id": 24,
+    "name_en": "great grey owl, great gray owl, Strix nebulosa",
+    "name_cn": "大灰鸮、大灰鸮、Strix nebulosa"
+  },
+  {
+    "id": 25,
+    "name_en": "European fire salamander, Salamandra salamandra",
+    "name_cn": "欧洲火蝾螈、蝾螈"
+  },
+  {
+    "id": 26,
+    "name_en": "common newt, Triturus vulgaris",
+    "name_cn": "普通蝾螈, Triturus vulgaris"
+  },
+  {
+    "id": 27,
+    "name_en": "eft",
+    "name_cn": "埃夫特"
+  },
+  {
+    "id": 28,
+    "name_en": "spotted salamander, Ambystoma maculatum",
+    "name_cn": "斑点蝾螈, Ambystoma maculatum"
+  },
+  {
+    "id": 29,
+    "name_en": "axolotl, mud puppy, Ambystoma mexicanum",
+    "name_cn": "蝾螈, 泥小狗, Ambystoma mexicanum"
+  },
+  {
+    "id": 30,
+    "name_en": "bullfrog, Rana catesbeiana",
+    "name_cn": "牛蛙, Rana catesbeiana"
+  },
+  {
+    "id": 31,
+    "name_en": "tree frog, tree-frog",
+    "name_cn": "树蛙，树蛙"
+  },
+  {
+    "id": 32,
+    "name_en": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+    "name_cn": "尾蛙、钟蟾、肋蟾、尾蟾、Ascaphus trui"
+  },
+  {
+    "id": 33,
+    "name_en": "loggerhead, loggerhead turtle, Caretta caretta",
+    "name_cn": "红蠵龟、红蠵龟、Caretta caretta"
+  },
+  {
+    "id": 34,
+    "name_en": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+    "name_cn": "棱皮龟、棱皮龟、革皮龟、Dermochelys coriacea"
+  },
+  {
+    "id": 35,
+    "name_en": "mud turtle",
+    "name_cn": "泥龟"
+  },
+  {
+    "id": 36,
+    "name_en": "terrapin",
+    "name_cn": "水龟"
+  },
+  {
+    "id": 37,
+    "name_en": "box turtle, box tortoise",
+    "name_cn": "箱龟，箱龟"
+  },
+  {
+    "id": 38,
+    "name_en": "banded gecko",
+    "name_cn": "带状壁虎"
+  },
+  {
+    "id": 39,
+    "name_en": "common iguana, iguana, Iguana iguana",
+    "name_cn": "普通鬣蜥、鬣蜥、鬣蜥"
+  },
+  {
+    "id": 40,
+    "name_en": "American chameleon, anole, Anolis carolinensis",
+    "name_cn": "美洲变色龙、变色龙、Anolis carolinensis"
+  },
+  {
+    "id": 41,
+    "name_en": "whiptail, whiptail lizard",
+    "name_cn": "鞭尾蜥蜴, 鞭尾蜥蜴"
+  },
+  {
+    "id": 42,
+    "name_en": "agama",
+    "name_cn": "蜥蜴"
+  },
+  {
+    "id": 43,
+    "name_en": "frilled lizard, Chlamydosaurus kingi",
+    "name_cn": "褶边蜥蜴，金吉衣藻"
+  },
+  {
+    "id": 44,
+    "name_en": "alligator lizard",
+    "name_cn": "鳄鱼蜥蜴"
+  },
+  {
+    "id": 45,
+    "name_en": "Gila monster, Heloderma suspectum",
+    "name_cn": "吉拉毒蜥、疑似毒蜥"
+  },
+  {
+    "id": 46,
+    "name_en": "green lizard, Lacerta viridis",
+    "name_cn": "绿蜥蜴，Lacerta viridis"
+  },
+  {
+    "id": 47,
+    "name_en": "African chameleon, Chamaeleo chamaeleon",
+    "name_cn": "非洲变色龙、Chamaeleo chamaeleon"
+  },
+  {
+    "id": 48,
+    "name_en": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoeis',",
+    "name_cn": "科莫多巨蜥、科莫多蜥蜴、龙蜥蜴、巨蜥蜴、Varanus komodoeis'、"
+  },
+  {
+    "id": 49,
+    "name_en": "African crocodile, Nile crocodile, Crocodylus niloticus",
+    "name_cn": "非洲鳄鱼、尼罗河鳄鱼、尼罗鳄"
+  },
+  {
+    "id": 50,
+    "name_en": "American alligator, Alligator mississipiensis",
+    "name_cn": "美洲短吻鳄、密西西比短吻鳄"
+  },
+  {
+    "id": 51,
+    "name_en": "triceratops",
+    "name_cn": "三角龙"
+  },
+  {
+    "id": 52,
+    "name_en": "thunder snake, worm snake, Carphophis amoenus",
+    "name_cn": "雷蛇、虫蛇、Carphophis amoenus"
+  },
+  {
+    "id": 53,
+    "name_en": "ringneck snake, ring-necked snake, ring snake",
+    "name_cn": "环颈蛇、环颈蛇、环蛇"
+  },
+  {
+    "id": 54,
+    "name_en": "hognose snake, puff adder, sand viper",
+    "name_cn": "猪鼻蛇、粉扑蛇、沙毒蛇"
+  },
+  {
+    "id": 55,
+    "name_en": "green snake, grass snake",
+    "name_cn": "青蛇、草蛇"
+  },
+  {
+    "id": 56,
+    "name_en": "king snake, kingsnake",
+    "name_cn": "王蛇、王蛇"
+  },
+  {
+    "id": 57,
+    "name_en": "garter snake, grass snake",
+    "name_cn": "束带蛇、草蛇"
+  },
+  {
+    "id": 58,
+    "name_en": "water snake",
+    "name_cn": "水蛇"
+  },
+  {
+    "id": 59,
+    "name_en": "vine snake",
+    "name_cn": "藤蛇"
+  },
+  {
+    "id": 60,
+    "name_en": "night snake, Hypsiglena torquata",
+    "name_cn": "夜蛇 Hypsiglena torquata"
+  },
+  {
+    "id": 61,
+    "name_en": "boa constrictor, Constrictor constrictor",
+    "name_cn": "蟒蛇、大蟒蛇"
+  },
+  {
+    "id": 62,
+    "name_en": "rock python, rock snake, Python sebae",
+    "name_cn": "岩蟒、岩蛇、蟒蛇"
+  },
+  {
+    "id": 63,
+    "name_en": "Indian cobra, Naja naja",
+    "name_cn": "印度眼镜蛇、眼镜蛇"
+  },
+  {
+    "id": 64,
+    "name_en": "green mamba",
+    "name_cn": "绿曼巴"
+  },
+  {
+    "id": 65,
+    "name_en": "sea snake",
+    "name_cn": "海蛇"
+  },
+  {
+    "id": 66,
+    "name_en": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+    "name_cn": "角毒蛇、角毒蛇、沙毒蛇、角蝰、Cerastes cornutus"
+  },
+  {
+    "id": 67,
+    "name_en": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+    "name_cn": "响尾蛇、响尾蛇、Crotalus adamanteus"
+  },
+  {
+    "id": 68,
+    "name_en": "sidewinder, horned rattlesnake, Crotalus cerastes",
+    "name_cn": "响尾蛇、角响尾蛇、Crotalus cerastes"
+  },
+  {
+    "id": 69,
+    "name_en": "trilobite",
+    "name_cn": "三叶虫"
+  },
+  {
+    "id": 70,
+    "name_en": "harvestman, daddy longlegs, Phalangium opilio",
+    "name_cn": "收割者、长腿爸爸、Phalangium opilio"
+  },
+  {
+    "id": 71,
+    "name_en": "scorpion",
+    "name_cn": "蝎"
+  },
+  {
+    "id": 72,
+    "name_en": "black and gold garden spider, Argiope aurantia",
+    "name_cn": "黑色和金色花园蜘蛛 Argiope aurantia"
+  },
+  {
+    "id": 73,
+    "name_en": "barn spider, Araneus cavaticus",
+    "name_cn": "谷仓蜘蛛，Araneus cavaticus"
+  },
+  {
+    "id": 74,
+    "name_en": "garden spider, Aranea diademata",
+    "name_cn": "花园蜘蛛 Aranea diademata"
+  },
+  {
+    "id": 75,
+    "name_en": "black widow, Latrodectus mactans",
+    "name_cn": "黑寡妇，Latrodectus mactans"
+  },
+  {
+    "id": 76,
+    "name_en": "tarantula",
+    "name_cn": "狼蛛"
+  },
+  {
+    "id": 77,
+    "name_en": "wolf spider, hunting spider",
+    "name_cn": "狼蛛、狩猎蜘蛛"
+  },
+  {
+    "id": 78,
+    "name_en": "tick",
+    "name_cn": "打钩"
+  },
+  {
+    "id": 79,
+    "name_en": "centipede",
+    "name_cn": "蜈"
+  },
+  {
+    "id": 80,
+    "name_en": "black grouse",
+    "name_cn": "黑松鸡"
+  },
+  {
+    "id": 81,
+    "name_en": "ptarmigan",
+    "name_cn": "雷鸟"
+  },
+  {
+    "id": 82,
+    "name_en": "ruffed grouse, partridge, Bonasa umbellus",
+    "name_cn": "颈松鸡、鹧鸪、Bonasa umbellus"
+  },
+  {
+    "id": 83,
+    "name_en": "prairie chicken, prairie grouse, prairie fowl",
+    "name_cn": "草原鸡、草原鸡、草原鸡"
+  },
+  {
+    "id": 84,
+    "name_en": "peacock",
+    "name_cn": "孔雀"
+  },
+  {
+    "id": 85,
+    "name_en": "quail",
+    "name_cn": "鹌鹑"
+  },
+  {
+    "id": 86,
+    "name_en": "partridge",
+    "name_cn": "鹧鸪"
+  },
+  {
+    "id": 87,
+    "name_en": "African grey, African gray, Psittacus erithacus",
+    "name_cn": "非洲灰鹦鹉、非洲灰鹦鹉、Psittacus erithacus"
+  },
+  {
+    "id": 88,
+    "name_en": "macaw",
+    "name_cn": "金刚鹦鹉"
+  },
+  {
+    "id": 89,
+    "name_en": "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+    "name_cn": "硫凤头鹦鹉、Kakatoe galerita、Cacatua galerita"
+  },
+  {
+    "id": 90,
+    "name_en": "lorikeet",
+    "name_cn": "澳洲鹦鹉"
+  },
+  {
+    "id": 91,
+    "name_en": "coucal",
+    "name_cn": "古卡尔"
+  },
+  {
+    "id": 92,
+    "name_en": "bee eater",
+    "name_cn": "食蜂鸟"
+  },
+  {
+    "id": 93,
+    "name_en": "hornbill",
+    "name_cn": "犀鸟"
+  },
+  {
+    "id": 94,
+    "name_en": "hummingbird",
+    "name_cn": "蜂鸟"
+  },
+  {
+    "id": 95,
+    "name_en": "jacamar",
+    "name_cn": "雅卡马尔"
+  },
+  {
+    "id": 96,
+    "name_en": "toucan",
+    "name_cn": "巨嘴鸟"
+  },
+  {
+    "id": 97,
+    "name_en": "drake",
+    "name_cn": "德雷克"
+  },
+  {
+    "id": 98,
+    "name_en": "red-breasted merganser, Mergus serrator",
+    "name_cn": "红胸秋沙鸭、秋沙鸭"
+  },
+  {
+    "id": 99,
+    "name_en": "goose",
+    "name_cn": "鹅"
+  },
+  {
+    "id": 100,
+    "name_en": "black swan, Cygnus atratus",
+    "name_cn": "黑天鹅、黑天鹅"
+  },
+  {
+    "id": 101,
+    "name_en": "tusker",
+    "name_cn": "獠牙"
+  },
+  {
+    "id": 102,
+    "name_en": "echidna, spiny anteater, anteater",
+    "name_cn": "针鼹, 刺食蚁兽, 食蚁兽"
+  },
+  {
+    "id": 103,
+    "name_en": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhyhus anatinus',",
+    "name_cn": "鸭嘴兽、鸭嘴兽、鸭嘴兽、鸭嘴兽、Ornithorhyhus anatinus'、"
+  },
+  {
+    "id": 104,
+    "name_en": "wallaby, brush kangaroo",
+    "name_cn": "小袋鼠、刷袋鼠"
+  },
+  {
+    "id": 105,
+    "name_en": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+    "name_cn": "考拉、考拉熊、袋鼠熊、本地熊、Phascolarctos cinereus"
+  },
+  {
+    "id": 106,
+    "name_en": "wombat",
+    "name_cn": "袋熊"
+  },
+  {
+    "id": 107,
+    "name_en": "jellyfish",
+    "name_cn": "海蜇"
+  },
+  {
+    "id": 108,
+    "name_en": "sea anemone, anemone",
+    "name_cn": "海葵、海葵"
+  },
+  {
+    "id": 109,
+    "name_en": "brain coral",
+    "name_cn": "脑珊瑚"
+  },
+  {
+    "id": 110,
+    "name_en": "flatworm, platyhelminth",
+    "name_cn": "扁虫、扁形虫"
+  },
+  {
+    "id": 111,
+    "name_en": "nematode, nematode worm, roundworm",
+    "name_cn": "线虫, 线虫, 蛔虫"
+  },
+  {
+    "id": 112,
+    "name_en": "conch",
+    "name_cn": "海螺"
+  },
+  {
+    "id": 113,
+    "name_en": "snail",
+    "name_cn": "蜗牛"
+  },
+  {
+    "id": 114,
+    "name_en": "slug",
+    "name_cn": "蛞蝓"
+  },
+  {
+    "id": 115,
+    "name_en": "sea slug, nudibranch",
+    "name_cn": "海蛞蝓、裸鳃类动物"
+  },
+  {
+    "id": 116,
+    "name_en": "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+    "name_cn": "石鳖、锁甲壳、海摇篮、多板纲"
+  },
+  {
+    "id": 117,
+    "name_en": "chambered nautilus, pearly nautilus, nautilus",
+    "name_cn": "有腔鹦鹉螺、珍珠鹦鹉螺、鹦鹉螺"
+  },
+  {
+    "id": 118,
+    "name_en": "Dungeness crab, Cancer magister",
+    "name_cn": "珍宝蟹，癌症魔导师"
+  },
+  {
+    "id": 119,
+    "name_en": "rock crab, Cancer irroratus",
+    "name_cn": "岩蟹，巨蟹"
+  },
+  {
+    "id": 120,
+    "name_en": "fiddler crab",
+    "name_cn": "招潮蟹"
+  },
+  {
+    "id": 121,
+    "name_en": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodesamtschatica',",
+    "name_cn": "帝王蟹、阿拉斯加蟹、阿拉斯加帝王蟹、阿拉斯加帝王蟹、Paralithodesamtschatica'、"
+  },
+  {
+    "id": 122,
+    "name_en": "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+    "name_cn": "美国龙虾、北方龙虾、缅因龙虾、美洲白鹤"
+  },
+  {
+    "id": 123,
+    "name_en": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+    "name_cn": "大龙虾、龙虾、岩龙虾、小龙虾、小龙虾、海螯虾"
+  },
+  {
+    "id": 124,
+    "name_en": "crayfish, crawfish, crawdad, crawdaddy",
+    "name_cn": "小龙虾、小龙虾、小龙虾、小龙虾"
+  },
+  {
+    "id": 125,
+    "name_en": "hermit crab",
+    "name_cn": "寄居蟹"
+  },
+  {
+    "id": 126,
+    "name_en": "isopod",
+    "name_cn": "等足类动物"
+  },
+  {
+    "id": 127,
+    "name_en": "white stork, Ciconia ciconia",
+    "name_cn": "白鹳、白鹳"
+  },
+  {
+    "id": 128,
+    "name_en": "black stork, Ciconia nigra",
+    "name_cn": "黑鹳、黑鹳"
+  },
+  {
+    "id": 129,
+    "name_en": "spoonbill",
+    "name_cn": "琵鹭"
+  },
+  {
+    "id": 130,
+    "name_en": "flamingo",
+    "name_cn": "火烈鸟"
+  },
+  {
+    "id": 131,
+    "name_en": "little blue heron, Egretta caerulea",
+    "name_cn": "小蓝鹭，Egretta caerulea"
+  },
+  {
+    "id": 132,
+    "name_en": "American egret, great white heron, Egretta albus",
+    "name_cn": "美洲白鹭、大白鹭、白鹭"
+  },
+  {
+    "id": 133,
+    "name_en": "bittern",
+    "name_cn": "卤水"
+  },
+  {
+    "id": 134,
+    "name_en": "crane, bird",
+    "name_cn": "鹤、鸟"
+  },
+  {
+    "id": 135,
+    "name_en": "limpkin, Aramus pictus",
+    "name_cn": "林普金, Aramus pictus"
+  },
+  {
+    "id": 136,
+    "name_en": "European gallinule, Porphyrio porphyrio",
+    "name_cn": "欧洲鸡、Porphyrio porphyrio"
+  },
+  {
+    "id": 137,
+    "name_en": "American coot, marsh hen, mud hen, water hen, Fulica americana",
+    "name_cn": "美国白顶鸡、沼泽母鸡、泥母鸡、水母鸡、Fulica americana"
+  },
+  {
+    "id": 138,
+    "name_en": "bustard",
+    "name_cn": "鸨"
+  },
+  {
+    "id": 139,
+    "name_en": "ruddy turnstone, Arenaria interpres",
+    "name_cn": "红润的转动石，Arenaria interpres"
+  },
+  {
+    "id": 140,
+    "name_en": "red-backed sandpiper, dunlin, Erolia alpina",
+    "name_cn": "红背鹬、邓林、Erolia alpina"
+  },
+  {
+    "id": 141,
+    "name_en": "redshank, Tringa totanus",
+    "name_cn": "红脚鹬 (Tringa totanus)"
+  },
+  {
+    "id": 142,
+    "name_en": "dowitcher",
+    "name_cn": "巫师"
+  },
+  {
+    "id": 143,
+    "name_en": "oystercatcher, oyster catcher",
+    "name_cn": "蛎鹬, 蛎鹬"
+  },
+  {
+    "id": 144,
+    "name_en": "pelican",
+    "name_cn": "鹈"
+  },
+  {
+    "id": 145,
+    "name_en": "king penguin, Aptenodytes patagonica",
+    "name_cn": "王企鹅，Aptenodytes patagonica"
+  },
+  {
+    "id": 146,
+    "name_en": "albatross, mollymawk",
+    "name_cn": "信天翁、莫利莫克"
+  },
+  {
+    "id": 147,
+    "name_en": "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius rostus',",
+    "name_cn": "灰鲸、灰鲸、魔鬼鱼、Eschrichtius gibbosus、Eschrichtius rostus'、"
+  },
+  {
+    "id": 148,
+    "name_en": "killer whale, killer, orca, grampus, sea wolf, Orcinus orca",
+    "name_cn": "虎鲸, 虎鲸, 虎鲸, 鲸鱼, 海狼, Orcinus orca"
+  },
+  {
+    "id": 149,
+    "name_en": "dugong, Dugong dugon",
+    "name_cn": "儒艮, 儒艮, 儒艮"
+  },
+  {
+    "id": 150,
+    "name_en": "sea lion",
+    "name_cn": "海狮"
+  },
+  {
+    "id": 151,
+    "name_en": "Chihuahua",
+    "name_cn": "奇瓦瓦州"
+  },
+  {
+    "id": 152,
+    "name_en": "Japanese spaniel",
+    "name_cn": "日本西班牙猎犬"
+  },
+  {
+    "id": 153,
+    "name_en": "Maltese dog, Maltese terrier, Maltese",
+    "name_cn": "马耳他犬、马耳他梗、马耳他"
+  },
+  {
+    "id": 154,
+    "name_en": "Pekinese, Pekingese, Peke",
+    "name_cn": "北京犬、北京犬、北京犬"
+  },
+  {
+    "id": 155,
+    "name_en": "Shih-Tzu",
+    "name_cn": "西施犬"
+  },
+  {
+    "id": 156,
+    "name_en": "Blenheim spaniel",
+    "name_cn": "布伦海姆西班牙猎犬"
+  },
+  {
+    "id": 157,
+    "name_en": "papillon",
+    "name_cn": "蝴蝶犬"
+  },
+  {
+    "id": 158,
+    "name_en": "toy terrier",
+    "name_cn": "玩具梗犬"
+  },
+  {
+    "id": 159,
+    "name_en": "Rhodesian ridgeback",
+    "name_cn": "罗得西亚脊背犬"
+  },
+  {
+    "id": 160,
+    "name_en": "Afghan hound, Afghan",
+    "name_cn": "阿富汗猎犬，阿富汗"
+  },
+  {
+    "id": 161,
+    "name_en": "basset, basset hound",
+    "name_cn": "巴吉度犬、巴吉度猎犬"
+  },
+  {
+    "id": 162,
+    "name_en": "beagle",
+    "name_cn": "比格犬"
+  },
+  {
+    "id": 163,
+    "name_en": "bloodhound, sleuthhound",
+    "name_cn": "寻血猎犬、侦探猎犬"
+  },
+  {
+    "id": 164,
+    "name_en": "bluetick",
+    "name_cn": "蓝勾"
+  },
+  {
+    "id": 165,
+    "name_en": "black-and-tan coonhound",
+    "name_cn": "黑褐色猎浣熊犬"
+  },
+  {
+    "id": 166,
+    "name_en": "Walker hound, Walker foxhound",
+    "name_cn": "沃克猎犬、沃克猎狐犬"
+  },
+  {
+    "id": 167,
+    "name_en": "English foxhound",
+    "name_cn": "英国猎狐犬"
+  },
+  {
+    "id": 168,
+    "name_en": "redbone",
+    "name_cn": "红骨"
+  },
+  {
+    "id": 169,
+    "name_en": "borzoi, Russian wolfhound",
+    "name_cn": "猎狼犬，俄罗斯猎狼犬"
+  },
+  {
+    "id": 170,
+    "name_en": "Irish wolfhound",
+    "name_cn": "爱尔兰猎狼犬"
+  },
+  {
+    "id": 171,
+    "name_en": "Italian greyhound",
+    "name_cn": "意大利灰狗"
+  },
+  {
+    "id": 172,
+    "name_en": "whippet",
+    "name_cn": "惠比特犬"
+  },
+  {
+    "id": 173,
+    "name_en": "Ibizan hound, Ibizan Podenco",
+    "name_cn": "伊维萨猎犬、伊维萨波登科"
+  },
+  {
+    "id": 174,
+    "name_en": "Norwegian elkhound, elkhound",
+    "name_cn": "挪威猎鹿犬、猎鹿犬"
+  },
+  {
+    "id": 175,
+    "name_en": "otterhound, otter hound",
+    "name_cn": "水獭猎犬，水獭猎犬"
+  },
+  {
+    "id": 176,
+    "name_en": "Saluki, gazelle hound",
+    "name_cn": "萨路基、瞪羚猎犬"
+  },
+  {
+    "id": 177,
+    "name_en": "Scottish deerhound, deerhound",
+    "name_cn": "苏格兰猎鹿犬、猎鹿犬"
+  },
+  {
+    "id": 178,
+    "name_en": "Weimaraner",
+    "name_cn": "威玛猎犬"
+  },
+  {
+    "id": 179,
+    "name_en": "Staffordshire bullterrier, Staffordshire bull terrier",
+    "name_cn": "斯塔福郡斗牛犬、斯塔福郡斗牛梗"
+  },
+  {
+    "id": 180,
+    "name_en": "American Staffordshire terrier, Staffordshire terrier, American pit bull rrier, pit bull terrier',",
+    "name_cn": "美国斯塔福郡梗犬、斯塔福郡梗犬、美国斗牛梗犬、斗牛梗犬、"
+  },
+  {
+    "id": 181,
+    "name_en": "Bedlington terrier",
+    "name_cn": "贝灵顿梗"
+  },
+  {
+    "id": 182,
+    "name_en": "Border terrier",
+    "name_cn": "边境梗犬"
+  },
+  {
+    "id": 183,
+    "name_en": "Kerry blue terrier",
+    "name_cn": "凯利蓝梗"
+  },
+  {
+    "id": 184,
+    "name_en": "Irish terrier",
+    "name_cn": "爱尔兰梗"
+  },
+  {
+    "id": 185,
+    "name_en": "Norfolk terrier",
+    "name_cn": "诺福克梗"
+  },
+  {
+    "id": 186,
+    "name_en": "Norwich terrier",
+    "name_cn": "诺维奇梗"
+  },
+  {
+    "id": 187,
+    "name_en": "Yorkshire terrier",
+    "name_cn": "约克夏犬"
+  },
+  {
+    "id": 188,
+    "name_en": "wire-haired fox terrier",
+    "name_cn": "刚毛猎狐梗"
+  },
+  {
+    "id": 189,
+    "name_en": "Lakeland terrier",
+    "name_cn": "莱克兰梗"
+  },
+  {
+    "id": 190,
+    "name_en": "Sealyham terrier, Sealyham",
+    "name_cn": "西利汉姆梗犬, 西利汉姆梗"
+  },
+  {
+    "id": 191,
+    "name_en": "Airedale, Airedale terrier",
+    "name_cn": "万年梗、万年梗"
+  },
+  {
+    "id": 192,
+    "name_en": "cairn, cairn terrier",
+    "name_cn": "凯恩梗，凯恩梗"
+  },
+  {
+    "id": 193,
+    "name_en": "Australian terrier",
+    "name_cn": "澳大利亚梗"
+  },
+  {
+    "id": 194,
+    "name_en": "Dandie Dinmont, Dandie Dinmont terrier",
+    "name_cn": "丹迪丁蒙梗犬，丹迪丁蒙梗犬"
+  },
+  {
+    "id": 195,
+    "name_en": "Boston bull, Boston terrier",
+    "name_cn": "波士顿公牛、波士顿梗犬"
+  },
+  {
+    "id": 196,
+    "name_en": "miniature schnauzer",
+    "name_cn": "迷你雪纳瑞"
+  },
+  {
+    "id": 197,
+    "name_en": "giant schnauzer",
+    "name_cn": "巨型雪纳瑞"
+  },
+  {
+    "id": 198,
+    "name_en": "standard schnauzer",
+    "name_cn": "标准雪纳瑞"
+  },
+  {
+    "id": 199,
+    "name_en": "Scotch terrier, Scottish terrier, Scottie",
+    "name_cn": "苏格兰梗、苏格兰梗、斯科蒂"
+  },
+  {
+    "id": 200,
+    "name_en": "Tibetan terrier, chrysanthemum dog",
+    "name_cn": "西藏梗、菊花狗"
+  },
+  {
+    "id": 201,
+    "name_en": "silky terrier, Sydney silky",
+    "name_cn": "丝毛梗、悉尼丝毛梗"
+  },
+  {
+    "id": 202,
+    "name_en": "soft-coated wheaten terrier",
+    "name_cn": "软毛小麦梗"
+  },
+  {
+    "id": 203,
+    "name_en": "West Highland white terrier",
+    "name_cn": "西高地白梗"
+  },
+  {
+    "id": 204,
+    "name_en": "Lhasa, Lhasa apso",
+    "name_cn": "拉萨, 拉萨阿普索"
+  },
+  {
+    "id": 205,
+    "name_en": "flat-coated retriever",
+    "name_cn": "平毛猎犬"
+  },
+  {
+    "id": 206,
+    "name_en": "curly-coated retriever",
+    "name_cn": "卷毛猎犬"
+  },
+  {
+    "id": 207,
+    "name_en": "golden retriever",
+    "name_cn": "金毛猎犬"
+  },
+  {
+    "id": 208,
+    "name_en": "Labrador retriever",
+    "name_cn": "拉布拉多猎犬"
+  },
+  {
+    "id": 209,
+    "name_en": "Chesapeake Bay retriever",
+    "name_cn": "切萨皮克湾猎犬"
+  },
+  {
+    "id": 210,
+    "name_en": "German short-haired pointer",
+    "name_cn": "德国短毛指示犬"
+  },
+  {
+    "id": 211,
+    "name_en": "vizsla, Hungarian pointer",
+    "name_cn": "vizsla，匈牙利指针"
+  },
+  {
+    "id": 212,
+    "name_en": "English setter",
+    "name_cn": "英国二传手"
+  },
+  {
+    "id": 213,
+    "name_en": "Irish setter, red setter",
+    "name_cn": "爱尔兰塞特犬、红塞特犬"
+  },
+  {
+    "id": 214,
+    "name_en": "Gordon setter",
+    "name_cn": "戈登赛特犬"
+  },
+  {
+    "id": 215,
+    "name_en": "Brittany spaniel",
+    "name_cn": "布列塔尼猎犬"
+  },
+  {
+    "id": 216,
+    "name_en": "clumber, clumber spaniel",
+    "name_cn": "克伦伯西班牙猎犬"
+  },
+  {
+    "id": 217,
+    "name_en": "English springer, English springer spaniel",
+    "name_cn": "英国史宾格犬、英国史宾格犬"
+  },
+  {
+    "id": 218,
+    "name_en": "Welsh springer spaniel",
+    "name_cn": "威尔士史宾格犬"
+  },
+  {
+    "id": 219,
+    "name_en": "cocker spaniel, English cocker spaniel, cocker",
+    "name_cn": "可卡犬、英国可卡犬、可卡犬"
+  },
+  {
+    "id": 220,
+    "name_en": "Sussex spaniel",
+    "name_cn": "苏塞克斯西班牙猎犬"
+  },
+  {
+    "id": 221,
+    "name_en": "Irish water spaniel",
+    "name_cn": "爱尔兰水猎犬"
+  },
+  {
+    "id": 222,
+    "name_en": "kuvasz",
+    "name_cn": "库瓦斯"
+  },
+  {
+    "id": 223,
+    "name_en": "schipperke",
+    "name_cn": "希佩尔克"
+  },
+  {
+    "id": 224,
+    "name_en": "groenendael",
+    "name_cn": "格罗嫩代尔"
+  },
+  {
+    "id": 225,
+    "name_en": "malinois",
+    "name_cn": "玛利诺犬"
+  },
+  {
+    "id": 226,
+    "name_en": "briard",
+    "name_cn": "伯瑞德"
+  },
+  {
+    "id": 227,
+    "name_en": "kelpie",
+    "name_cn": "水鬼"
+  },
+  {
+    "id": 228,
+    "name_en": "komondor",
+    "name_cn": "科蒙多尔"
+  },
+  {
+    "id": 229,
+    "name_en": "Old English sheepdog, bobtail",
+    "name_cn": "古老的英国牧羊犬，短尾犬"
+  },
+  {
+    "id": 230,
+    "name_en": "Shetland sheepdog, Shetland sheep dog, Shetland",
+    "name_cn": "喜乐蒂牧羊犬、喜乐蒂牧羊犬、设得兰群岛牧羊犬"
+  },
+  {
+    "id": 231,
+    "name_en": "collie",
+    "name_cn": "牧羊犬"
+  },
+  {
+    "id": 232,
+    "name_en": "Border collie",
+    "name_cn": "边境牧羊犬"
+  },
+  {
+    "id": 233,
+    "name_en": "Bouvier des Flandres, Bouviers des Flandres",
+    "name_cn": "弗兰德斯布维耶, 弗兰德斯布维耶"
+  },
+  {
+    "id": 234,
+    "name_en": "Rottweiler",
+    "name_cn": "罗威纳犬"
+  },
+  {
+    "id": 235,
+    "name_en": "German shepherd, German shepherd dog, German police dog, alsatian",
+    "name_cn": "德国牧羊犬、德国牧羊犬、德国警犬、阿尔萨斯犬"
+  },
+  {
+    "id": 236,
+    "name_en": "Doberman, Doberman pinscher",
+    "name_cn": "杜宾犬、杜宾犬"
+  },
+  {
+    "id": 237,
+    "name_en": "miniature pinscher",
+    "name_cn": "迷你杜宾犬"
+  },
+  {
+    "id": 238,
+    "name_en": "Greater Swiss Mountain dog",
+    "name_cn": "大瑞士山地犬"
+  },
+  {
+    "id": 239,
+    "name_en": "Bernese mountain dog",
+    "name_cn": "伯恩山犬"
+  },
+  {
+    "id": 240,
+    "name_en": "Appenzeller",
+    "name_cn": "阿彭策勒"
+  },
+  {
+    "id": 241,
+    "name_en": "EntleBucher",
+    "name_cn": "恩特尔·布赫"
+  },
+  {
+    "id": 242,
+    "name_en": "boxer",
+    "name_cn": "拳击手"
+  },
+  {
+    "id": 243,
+    "name_en": "bull mastiff",
+    "name_cn": "公牛獒犬"
+  },
+  {
+    "id": 244,
+    "name_en": "Tibetan mastiff",
+    "name_cn": "藏獒"
+  },
+  {
+    "id": 245,
+    "name_en": "French bulldog",
+    "name_cn": "法国斗牛犬"
+  },
+  {
+    "id": 246,
+    "name_en": "Great Dane",
+    "name_cn": "大丹犬"
+  },
+  {
+    "id": 247,
+    "name_en": "Saint Bernard, St Bernard",
+    "name_cn": "圣伯纳犬、圣伯纳犬"
+  },
+  {
+    "id": 248,
+    "name_en": "Eskimo dog, husky",
+    "name_cn": "爱斯基摩犬、哈士奇"
+  },
+  {
+    "id": 249,
+    "name_en": "malamute, malemute, Alaskan malamute",
+    "name_cn": "阿拉斯加雪橇犬、马勒穆特、阿拉斯加雪橇犬"
+  },
+  {
+    "id": 250,
+    "name_en": "Siberian husky",
+    "name_cn": "西伯利亚哈士奇"
+  },
+  {
+    "id": 251,
+    "name_en": "dalmatian, coach dog, carriage dog",
+    "name_cn": "达尔马提亚, 教练狗, 马车狗"
+  },
+  {
+    "id": 252,
+    "name_en": "affenpinscher, monkey pinscher, monkey dog",
+    "name_cn": "affenpinscher, 猴子杜宾犬, 猴狗"
+  },
+  {
+    "id": 253,
+    "name_en": "basenji",
+    "name_cn": "巴森吉"
+  },
+  {
+    "id": 254,
+    "name_en": "pug, pug-dog",
+    "name_cn": "哈巴狗，哈巴狗"
+  },
+  {
+    "id": 255,
+    "name_en": "Leonberg",
+    "name_cn": "莱昂伯格"
+  },
+  {
+    "id": 256,
+    "name_en": "Newfoundland, Newfoundland dog",
+    "name_cn": "纽芬兰犬、纽芬兰犬"
+  },
+  {
+    "id": 257,
+    "name_en": "Great Pyrenees",
+    "name_cn": "大比利牛斯山脉"
+  },
+  {
+    "id": 258,
+    "name_en": "Samoyed, Samoyede",
+    "name_cn": "萨摩耶、萨摩耶"
+  },
+  {
+    "id": 259,
+    "name_en": "Pomeranian",
+    "name_cn": "博美犬"
+  },
+  {
+    "id": 260,
+    "name_en": "chow, chow chow",
+    "name_cn": "松狮，松狮"
+  },
+  {
+    "id": 261,
+    "name_en": "keeshond",
+    "name_cn": "荷兰毛狮犬"
+  },
+  {
+    "id": 262,
+    "name_en": "Brabancon griffon",
+    "name_cn": "布拉班肯狮鹫"
+  },
+  {
+    "id": 263,
+    "name_en": "Pembroke, Pembroke Welsh corgi",
+    "name_cn": "彭布罗克，彭布罗克威尔士柯基犬"
+  },
+  {
+    "id": 264,
+    "name_en": "Cardigan, Cardigan Welsh corgi",
+    "name_cn": "卡迪根，卡迪根威尔士柯基犬"
+  },
+  {
+    "id": 265,
+    "name_en": "toy poodle",
+    "name_cn": "玩具贵宾犬"
+  },
+  {
+    "id": 266,
+    "name_en": "miniature poodle",
+    "name_cn": "迷你贵宾犬"
+  },
+  {
+    "id": 267,
+    "name_en": "standard poodle",
+    "name_cn": "标准贵宾犬"
+  },
+  {
+    "id": 268,
+    "name_en": "Mexican hairless",
+    "name_cn": "墨西哥无毛"
+  },
+  {
+    "id": 269,
+    "name_en": "timber wolf, grey wolf, gray wolf, Canis lupus",
+    "name_cn": "木狼、灰狼、灰狼、犬红斑狼疮"
+  },
+  {
+    "id": 270,
+    "name_en": "white wolf, Arctic wolf, Canis lupus tundrarum",
+    "name_cn": "白狼、北极狼、Canis lupus tundrarum"
+  },
+  {
+    "id": 271,
+    "name_en": "red wolf, maned wolf, Canis rufus, Canis niger",
+    "name_cn": "红狼、鬃狼、红狼、黑犬"
+  },
+  {
+    "id": 272,
+    "name_en": "coyote, prairie wolf, brush wolf, Canis latrans",
+    "name_cn": "郊狼、草原狼、灌丛狼、Canis latrans"
+  },
+  {
+    "id": 273,
+    "name_en": "dingo, warrigal, warragal, Canis dingo",
+    "name_cn": "野狗, 沃里格尔, 沃拉格尔, 野狗"
+  },
+  {
+    "id": 274,
+    "name_en": "dhole, Cuon alpinus",
+    "name_cn": "豺 (Cuon alpinus)"
+  },
+  {
+    "id": 275,
+    "name_en": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",
+    "name_cn": "非洲猎犬、鬣狗、海角猎犬、利卡翁图斯犬"
+  },
+  {
+    "id": 276,
+    "name_en": "hyena, hyaena",
+    "name_cn": "鬣狗，鬣狗"
+  },
+  {
+    "id": 277,
+    "name_en": "red fox, Vulpes vulpes",
+    "name_cn": "红狐、狐狸"
+  },
+  {
+    "id": 278,
+    "name_en": "kit fox, Vulpes macrotis",
+    "name_cn": "套件狐狸，Vulpes macrotis"
+  },
+  {
+    "id": 279,
+    "name_en": "Arctic fox, white fox, Alopex lagopus",
+    "name_cn": "北极狐、白狐、蓝狐"
+  },
+  {
+    "id": 280,
+    "name_en": "grey fox, gray fox, Urocyon cinereoargenteus",
+    "name_cn": "灰狐、灰狐、Urocyon cinereoargenteus"
+  },
+  {
+    "id": 281,
+    "name_en": "tabby, tabby cat",
+    "name_cn": "虎斑猫，虎斑猫"
+  },
+  {
+    "id": 282,
+    "name_en": "tiger cat",
+    "name_cn": "虎猫"
+  },
+  {
+    "id": 283,
+    "name_en": "Persian cat",
+    "name_cn": "波斯猫"
+  },
+  {
+    "id": 284,
+    "name_en": "Siamese cat, Siamese",
+    "name_cn": "暹罗猫，暹罗猫"
+  },
+  {
+    "id": 285,
+    "name_en": "Egyptian cat",
+    "name_cn": "埃及猫"
+  },
+  {
+    "id": 286,
+    "name_en": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+    "name_cn": "美洲狮、美洲狮、catmount、山狮、画家、黑豹、Felis concolor"
+  },
+  {
+    "id": 287,
+    "name_en": "lynx, catamount",
+    "name_cn": "山猫、猫科动物"
+  },
+  {
+    "id": 288,
+    "name_en": "leopard, Panthera pardus",
+    "name_cn": "豹，Panthera pardus"
+  },
+  {
+    "id": 289,
+    "name_en": "snow leopard, ounce, Panthera uncia",
+    "name_cn": "雪豹，盎司，Panthera uncia"
+  },
+  {
+    "id": 290,
+    "name_en": "jaguar, panther, Panthera onca, Felis onca",
+    "name_cn": "美洲虎, 黑豹, Panthera onca, Felis onca"
+  },
+  {
+    "id": 291,
+    "name_en": "lion, king of beasts, Panthera leo",
+    "name_cn": "狮子，万兽之王，Panthera leo"
+  },
+  {
+    "id": 292,
+    "name_en": "tiger, Panthera tigris",
+    "name_cn": "虎，虎"
+  },
+  {
+    "id": 293,
+    "name_en": "cheetah, chetah, Acinonyx jubatus",
+    "name_cn": "猎豹, chetah, Acinonyx jubatus"
+  },
+  {
+    "id": 294,
+    "name_en": "brown bear, bruin, Ursus arctos",
+    "name_cn": "棕熊, 棕熊, Ursus arctos"
+  },
+  {
+    "id": 295,
+    "name_en": "American black bear, black bear, Ursus americanus, Euarctos americanus",
+    "name_cn": "美洲黑熊、黑熊、Ursus americanus、Euarctos americanus"
+  },
+  {
+    "id": 296,
+    "name_en": "ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",
+    "name_cn": "冰熊、北极熊、Ursus Maritimus、Thalarctos maritimus"
+  },
+  {
+    "id": 297,
+    "name_en": "sloth bear, Melursus ursinus, Ursus ursinus",
+    "name_cn": "懒熊、Melursus ursinus、Ursus ursinus"
+  },
+  {
+    "id": 298,
+    "name_en": "mongoose",
+    "name_cn": "猫鼬"
+  },
+  {
+    "id": 299,
+    "name_en": "meerkat, mierkat",
+    "name_cn": "狐獴, 狐獴"
+  },
+  {
+    "id": 300,
+    "name_en": "tiger beetle",
+    "name_cn": "虎甲虫"
+  },
+  {
+    "id": 301,
+    "name_en": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+    "name_cn": "瓢虫, 瓢虫, 瓢虫, 瓢虫, 瓢虫甲虫"
+  },
+  {
+    "id": 302,
+    "name_en": "ground beetle, carabid beetle",
+    "name_cn": "地甲虫、步甲甲虫"
+  },
+  {
+    "id": 303,
+    "name_en": "long-horned beetle, longicorn, longicorn beetle",
+    "name_cn": "天牛、天牛、天牛"
+  },
+  {
+    "id": 304,
+    "name_en": "leaf beetle, chrysomelid",
+    "name_cn": "叶甲虫、叶甲"
+  },
+  {
+    "id": 305,
+    "name_en": "dung beetle",
+    "name_cn": "粪甲虫"
+  },
+  {
+    "id": 306,
+    "name_en": "rhinoceros beetle",
+    "name_cn": "犀牛甲虫"
+  },
+  {
+    "id": 307,
+    "name_en": "weevil",
+    "name_cn": "象鼻虫"
+  },
+  {
+    "id": 308,
+    "name_en": "fly",
+    "name_cn": "飞"
+  },
+  {
+    "id": 309,
+    "name_en": "bee",
+    "name_cn": "蜜蜂"
+  },
+  {
+    "id": 310,
+    "name_en": "ant, emmet, pismire",
+    "name_cn": "蚂蚁、埃米特、皮斯米雷"
+  },
+  {
+    "id": 311,
+    "name_en": "grasshopper, hopper",
+    "name_cn": "蚱蜢, 漏斗"
+  },
+  {
+    "id": 312,
+    "name_en": "cricket",
+    "name_cn": "蟋蟀"
+  },
+  {
+    "id": 313,
+    "name_en": "walking stick, walkingstick, stick insect",
+    "name_cn": "手杖, 手杖, 竹节虫"
+  },
+  {
+    "id": 314,
+    "name_en": "cockroach, roach",
+    "name_cn": "蟑螂，蟑螂"
+  },
+  {
+    "id": 315,
+    "name_en": "mantis, mantid",
+    "name_cn": "螳螂, 螳螂"
+  },
+  {
+    "id": 316,
+    "name_en": "cicada, cicala",
+    "name_cn": "蝉，蝉"
+  },
+  {
+    "id": 317,
+    "name_en": "leafhopper",
+    "name_cn": "叶蝉"
+  },
+  {
+    "id": 318,
+    "name_en": "lacewing, lacewing fly",
+    "name_cn": "草蛉，草蛉蝇"
+  },
+  {
+    "id": 319,
+    "name_en": "dragonfly, darning needle, devil's darning needle, sewing needle, snake fder, snake doctor, mosquito hawk, skeeter hawk\",",
+    "name_cn": "蜻蜓、补补针、魔鬼补补针、缝纫针、蛇 fder、蛇医生、蚊鹰、斯基特鹰”、"
+  },
+  {
+    "id": 320,
+    "name_en": "damselfly",
+    "name_cn": "豆娘"
+  },
+  {
+    "id": 321,
+    "name_en": "admiral",
+    "name_cn": "上将"
+  },
+  {
+    "id": 322,
+    "name_en": "ringlet, ringlet butterfly",
+    "name_cn": "小环，小环蝴蝶"
+  },
+  {
+    "id": 323,
+    "name_en": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+    "name_cn": "帝王蝶、帝王蝶、马利筋蝴蝶、Danaus plexippus"
+  },
+  {
+    "id": 324,
+    "name_en": "cabbage butterfly",
+    "name_cn": "菜粉蝶"
+  },
+  {
+    "id": 325,
+    "name_en": "sulphur butterfly, sulfur butterfly",
+    "name_cn": "硫磺蝴蝶、硫磺蝴蝶"
+  },
+  {
+    "id": 326,
+    "name_en": "lycaenid, lycaenid butterfly",
+    "name_cn": "狼蝴蝶，狼蝴蝶"
+  },
+  {
+    "id": 327,
+    "name_en": "starfish, sea star",
+    "name_cn": "海星，海星"
+  },
+  {
+    "id": 328,
+    "name_en": "sea urchin",
+    "name_cn": "海胆"
+  },
+  {
+    "id": 329,
+    "name_en": "sea cucumber, holothurian",
+    "name_cn": "海参、海参"
+  },
+  {
+    "id": 330,
+    "name_en": "wood rabbit, cottontail, cottontail rabbit",
+    "name_cn": "木兔、棉尾兔、棉尾兔"
+  },
+  {
+    "id": 331,
+    "name_en": "hare",
+    "name_cn": "野兔"
+  },
+  {
+    "id": 332,
+    "name_en": "Angora, Angora rabbit",
+    "name_cn": "安哥拉兔、安哥拉兔"
+  },
+  {
+    "id": 333,
+    "name_en": "hamster",
+    "name_cn": "仓鼠"
+  },
+  {
+    "id": 334,
+    "name_en": "porcupine, hedgehog",
+    "name_cn": "豪猪、刺猬"
+  },
+  {
+    "id": 335,
+    "name_en": "fox squirrel, eastern fox squirrel, Sciurus niger",
+    "name_cn": "狐狸松鼠、东方狐松鼠、黑松鼠"
+  },
+  {
+    "id": 336,
+    "name_en": "marmot",
+    "name_cn": "土拨鼠"
+  },
+  {
+    "id": 337,
+    "name_en": "beaver",
+    "name_cn": "海狸"
+  },
+  {
+    "id": 338,
+    "name_en": "guinea pig, Cavia cobaya",
+    "name_cn": "豚鼠，Cavia cobaya"
+  },
+  {
+    "id": 339,
+    "name_en": "sorrel",
+    "name_cn": "酢浆草"
+  },
+  {
+    "id": 340,
+    "name_en": "zebra",
+    "name_cn": "斑马"
+  },
+  {
+    "id": 341,
+    "name_en": "hog, pig, grunter, squealer, Sus scrofa",
+    "name_cn": "猪、猪、咕噜声、尖叫声、Sus scrofa"
+  },
+  {
+    "id": 342,
+    "name_en": "wild boar, boar, Sus scrofa",
+    "name_cn": "野猪、野猪、Sus scrofa"
+  },
+  {
+    "id": 343,
+    "name_en": "warthog",
+    "name_cn": "疣猪"
+  },
+  {
+    "id": 344,
+    "name_en": "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+    "name_cn": "河马, 河马, 河马, 两栖河马"
+  },
+  {
+    "id": 345,
+    "name_en": "ox",
+    "name_cn": "牛"
+  },
+  {
+    "id": 346,
+    "name_en": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",
+    "name_cn": "水牛、水牛、亚洲水牛、Bubalus bubalis"
+  },
+  {
+    "id": 347,
+    "name_en": "bison",
+    "name_cn": "野牛"
+  },
+  {
+    "id": 348,
+    "name_en": "ram, tup",
+    "name_cn": "公羊，公羊"
+  },
+  {
+    "id": 349,
+    "name_en": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain eep, Ovis canadensis',",
+    "name_cn": "大角羊、大角羊、cimarron、落基山大角羊、落基山 eep、Ovis canadensis'、"
+  },
+  {
+    "id": 350,
+    "name_en": "ibex, Capra ibex",
+    "name_cn": "羱羊、卡普拉羱羊"
+  },
+  {
+    "id": 351,
+    "name_en": "hartebeest",
+    "name_cn": "狷羚"
+  },
+  {
+    "id": 352,
+    "name_en": "impala, Aepyceros melampus",
+    "name_cn": "黑斑羚、黑斑羚"
+  },
+  {
+    "id": 353,
+    "name_en": "gazelle",
+    "name_cn": "羚羊"
+  },
+  {
+    "id": 354,
+    "name_en": "Arabian camel, dromedary, Camelus dromedarius",
+    "name_cn": "阿拉伯骆驼、单峰骆驼、Camelus dromedarius"
+  },
+  {
+    "id": 355,
+    "name_en": "llama",
+    "name_cn": "骆驼"
+  },
+  {
+    "id": 356,
+    "name_en": "weasel",
+    "name_cn": "黄鼠狼"
+  },
+  {
+    "id": 357,
+    "name_en": "mink",
+    "name_cn": "貂"
+  },
+  {
+    "id": 358,
+    "name_en": "polecat, fitch, foulmart, foumart, Mustela putorius",
+    "name_cn": "鸡貂, 菲奇, 臭鼬, foumart, Mustela putorius"
+  },
+  {
+    "id": 359,
+    "name_en": "black-footed ferret, ferret, Mustela nigripes",
+    "name_cn": "黑足雪貂、雪貂、Mustela nigripes"
+  },
+  {
+    "id": 360,
+    "name_en": "otter",
+    "name_cn": "獭"
+  },
+  {
+    "id": 361,
+    "name_en": "skunk, polecat, wood pussy",
+    "name_cn": "臭鼬, 鸡貂, 木猫"
+  },
+  {
+    "id": 362,
+    "name_en": "badger",
+    "name_cn": "獾"
+  },
+  {
+    "id": 363,
+    "name_en": "armadillo",
+    "name_cn": "犰狳"
+  },
+  {
+    "id": 364,
+    "name_en": "three-toed sloth, ai, Bradypus tridactylus",
+    "name_cn": "三趾树懒, ai, Bradypus tridactylus"
+  },
+  {
+    "id": 365,
+    "name_en": "orangutan, orang, orangutang, Pongo pygmaeus",
+    "name_cn": "红毛猩猩、红毛猩猩、红毛猩猩、Pongo pygmaeus"
+  },
+  {
+    "id": 366,
+    "name_en": "gorilla, Gorilla gorilla",
+    "name_cn": "大猩猩，大猩猩，大猩猩"
+  },
+  {
+    "id": 367,
+    "name_en": "chimpanzee, chimp, Pan troglodytes",
+    "name_cn": "黑猩猩、黑猩猩、泛穴居人"
+  },
+  {
+    "id": 368,
+    "name_en": "gibbon, Hylobates lar",
+    "name_cn": "长臂猿、长臂猿"
+  },
+  {
+    "id": 369,
+    "name_en": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+    "name_cn": "合趾猿、合趾长臂猿、合指合趾猿"
+  },
+  {
+    "id": 370,
+    "name_en": "guenon, guenon monkey",
+    "name_cn": "长尾猴，长尾猴"
+  },
+  {
+    "id": 371,
+    "name_en": "patas, hussar monkey, Erythrocebus patas",
+    "name_cn": "patas, 骠骑兵猴, Erythrocebus patas"
+  },
+  {
+    "id": 372,
+    "name_en": "baboon",
+    "name_cn": "狒狒"
+  },
+  {
+    "id": 373,
+    "name_en": "macaque",
+    "name_cn": "猕猴"
+  },
+  {
+    "id": 374,
+    "name_en": "langur",
+    "name_cn": "叶猴"
+  },
+  {
+    "id": 375,
+    "name_en": "colobus, colobus monkey",
+    "name_cn": "疣猴、疣猴"
+  },
+  {
+    "id": 376,
+    "name_en": "proboscis monkey, Nasalis larvatus",
+    "name_cn": "长鼻猴，鼻猴幼体"
+  },
+  {
+    "id": 377,
+    "name_en": "marmoset",
+    "name_cn": "狨猴"
+  },
+  {
+    "id": 378,
+    "name_en": "capuchin, ringtail, Cebus capucinus",
+    "name_cn": "卷尾猴, 环尾猴, Cebus capucinus"
+  },
+  {
+    "id": 379,
+    "name_en": "howler monkey, howler",
+    "name_cn": "吼猴、吼猴"
+  },
+  {
+    "id": 380,
+    "name_en": "titi, titi monkey",
+    "name_cn": "蒂蒂，蒂蒂猴"
+  },
+  {
+    "id": 381,
+    "name_en": "spider monkey, Ateles geoffroyi",
+    "name_cn": "蜘蛛猴 Ateles geoffroyi"
+  },
+  {
+    "id": 382,
+    "name_en": "squirrel monkey, Saimiri sciureus",
+    "name_cn": "松鼠猴、Saimiri sciureus"
+  },
+  {
+    "id": 383,
+    "name_en": "Madagascar cat, ring-tailed lemur, Lemur catta",
+    "name_cn": "马达加斯加猫、环尾狐猴、狐猴catta"
+  },
+  {
+    "id": 384,
+    "name_en": "indri, indris, Indri indri, Indri brevicaudatus",
+    "name_cn": "因德里、因德里、因德里、因德里 brevicaatus"
+  },
+  {
+    "id": 385,
+    "name_en": "Indian elephant, Elephas maximus",
+    "name_cn": "印度象，Elephas maximus"
+  },
+  {
+    "id": 386,
+    "name_en": "African elephant, Loxodonta africana",
+    "name_cn": "非洲象，Loxodonta africana"
+  },
+  {
+    "id": 387,
+    "name_en": "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+    "name_cn": "小熊猫, 小熊猫, 熊猫, 熊猫, 猫熊, Ailurus fulgens"
+  },
+  {
+    "id": 388,
+    "name_en": "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+    "name_cn": "大熊猫, 熊猫, 熊猫熊, 浣熊, Ailuropoda melanoleuca"
+  },
+  {
+    "id": 389,
+    "name_en": "barracouta, snoek",
+    "name_cn": "巴拉库塔、斯诺克"
+  },
+  {
+    "id": 390,
+    "name_en": "eel",
+    "name_cn": "鳗鱼"
+  },
+  {
+    "id": 391,
+    "name_en": "coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",
+    "name_cn": "银鲑鱼、银鲑鱼、银鲑鱼、蓝杰克鱼、银鲑鱼、Oncorhynchus kisutch"
+  },
+  {
+    "id": 392,
+    "name_en": "rock beauty, Holocanthus tricolor",
+    "name_cn": "岩美人，三色海棠"
+  },
+  {
+    "id": 393,
+    "name_en": "anemone fish",
+    "name_cn": "海葵鱼"
+  },
+  {
+    "id": 394,
+    "name_en": "sturgeon",
+    "name_cn": "鲟"
+  },
+  {
+    "id": 395,
+    "name_en": "gar, garfish, garpike, billfish, Lepisosteus osseus",
+    "name_cn": "鳝鱼、长嘴鱼、garpike、旗鱼、Lepisosteus osseus"
+  },
+  {
+    "id": 396,
+    "name_en": "lionfish",
+    "name_cn": "狮子鱼"
+  },
+  {
+    "id": 397,
+    "name_en": "puffer, pufferfish, blowfish, globefish",
+    "name_cn": "河豚、河豚、河豚、河豚"
+  },
+  {
+    "id": 398,
+    "name_en": "abacus",
+    "name_cn": "算盘"
+  },
+  {
+    "id": 399,
+    "name_en": "abaya",
+    "name_cn": "长袍"
+  },
+  {
+    "id": 400,
+    "name_en": "academic gown, academic robe, judge's robe",
+    "name_cn": "学术袍、学术袍、法官袍"
+  },
+  {
+    "id": 401,
+    "name_en": "accordion, piano accordion, squeeze box",
+    "name_cn": "手风琴、钢琴手风琴、挤压盒"
+  },
+  {
+    "id": 402,
+    "name_en": "acoustic guitar",
+    "name_cn": "原声吉他"
+  },
+  {
+    "id": 403,
+    "name_en": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+    "name_cn": "航空母舰, 航空母舰, 平顶航空母舰, 攻击航空母舰"
+  },
+  {
+    "id": 404,
+    "name_en": "airliner",
+    "name_cn": "客机"
+  },
+  {
+    "id": 405,
+    "name_en": "airship, dirigible",
+    "name_cn": "飞艇, 飞艇"
+  },
+  {
+    "id": 406,
+    "name_en": "altar",
+    "name_cn": "坛"
+  },
+  {
+    "id": 407,
+    "name_en": "ambulance",
+    "name_cn": "救护车"
+  },
+  {
+    "id": 408,
+    "name_en": "amphibian, amphibious vehicle",
+    "name_cn": "水陆两用的，两栖车辆"
+  },
+  {
+    "id": 409,
+    "name_en": "analog clock",
+    "name_cn": "模拟时钟"
+  },
+  {
+    "id": 410,
+    "name_en": "apiary, bee house",
+    "name_cn": "养蜂场，蜂房"
+  },
+  {
+    "id": 411,
+    "name_en": "apron",
+    "name_cn": "围裙"
+  },
+  {
+    "id": 412,
+    "name_en": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustb, trash barrel, trash bin',",
+    "name_cn": "垃圾桶，垃圾桶，垃圾箱，废物箱，灰箱，灰箱，灰箱，垃圾箱，垃圾桶，垃圾箱'，"
+  },
+  {
+    "id": 413,
+    "name_en": "assault rifle, assault gun",
+    "name_cn": "突击步枪，突击步枪"
+  },
+  {
+    "id": 414,
+    "name_en": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+    "name_cn": "背包, 背包, 背囊, 背包, 帆布背包, 背囊"
+  },
+  {
+    "id": 415,
+    "name_en": "bakery, bakeshop, bakehouse",
+    "name_cn": "面包店, 面包房, 面包房"
+  },
+  {
+    "id": 416,
+    "name_en": "balance beam, beam",
+    "name_cn": "平衡木，平衡木"
+  },
+  {
+    "id": 417,
+    "name_en": "balloon",
+    "name_cn": "气球"
+  },
+  {
+    "id": 418,
+    "name_en": "ballpoint, ballpoint pen, ballpen, Biro",
+    "name_cn": "圆珠笔，圆珠笔，圆珠笔，圆珠笔"
+  },
+  {
+    "id": 419,
+    "name_en": "Band Aid",
+    "name_cn": "创可贴"
+  },
+  {
+    "id": 420,
+    "name_en": "banjo",
+    "name_cn": "班卓琴"
+  },
+  {
+    "id": 421,
+    "name_en": "bannister, banister, balustrade, balusters, handrail",
+    "name_cn": "栏杆、栏杆、栏杆、栏杆、扶手"
+  },
+  {
+    "id": 422,
+    "name_en": "barbell",
+    "name_cn": "杠铃"
+  },
+  {
+    "id": 423,
+    "name_en": "barber chair",
+    "name_cn": "理发椅"
+  },
+  {
+    "id": 424,
+    "name_en": "barbershop",
+    "name_cn": "理发店"
+  },
+  {
+    "id": 425,
+    "name_en": "barn",
+    "name_cn": "谷仓"
+  },
+  {
+    "id": 426,
+    "name_en": "barometer",
+    "name_cn": "晴雨表"
+  },
+  {
+    "id": 427,
+    "name_en": "barrel, cask",
+    "name_cn": "木桶，木桶"
+  },
+  {
+    "id": 428,
+    "name_en": "barrow, garden cart, lawn cart, wheelbarrow",
+    "name_cn": "手推车, 花园车, 草坪车, 独轮车"
+  },
+  {
+    "id": 429,
+    "name_en": "baseball",
+    "name_cn": "棒球"
+  },
+  {
+    "id": 430,
+    "name_en": "basketball",
+    "name_cn": "篮球"
+  },
+  {
+    "id": 431,
+    "name_en": "bassinet",
+    "name_cn": "摇篮"
+  },
+  {
+    "id": 432,
+    "name_en": "bassoon",
+    "name_cn": "巴松管"
+  },
+  {
+    "id": 433,
+    "name_en": "bathing cap, swimming cap",
+    "name_cn": "泳帽，游泳帽"
+  },
+  {
+    "id": 434,
+    "name_en": "bath towel",
+    "name_cn": "浴巾"
+  },
+  {
+    "id": 435,
+    "name_en": "bathtub, bathing tub, bath, tub",
+    "name_cn": "浴缸, 浴缸, 浴缸, 浴缸"
+  },
+  {
+    "id": 436,
+    "name_en": "beach wagon, station wagon, wagon, estate car, beach waggon, station wagg, waggon',",
+    "name_cn": "沙滩车、旅行车、旅行车、旅行车、沙滩车、旅行车、旅行车'、"
+  },
+  {
+    "id": 437,
+    "name_en": "beacon, lighthouse, beacon light, pharos",
+    "name_cn": "灯塔, 灯塔, 航标灯, 灯塔"
+  },
+  {
+    "id": 438,
+    "name_en": "beaker",
+    "name_cn": "烧杯"
+  },
+  {
+    "id": 439,
+    "name_en": "bearskin, busby, shako",
+    "name_cn": "熊皮、巴斯比、沙科"
+  },
+  {
+    "id": 440,
+    "name_en": "beer bottle",
+    "name_cn": "啤酒瓶"
+  },
+  {
+    "id": 441,
+    "name_en": "beer glass",
+    "name_cn": "啤酒杯"
+  },
+  {
+    "id": 442,
+    "name_en": "bell cote, bell cot",
+    "name_cn": "贝尔科特, 贝尔科特"
+  },
+  {
+    "id": 443,
+    "name_en": "bib",
+    "name_cn": "围兜"
+  },
+  {
+    "id": 444,
+    "name_en": "bicycle-built-for-two, tandem bicycle, tandem",
+    "name_cn": "双人自行车、双人自行车、双人自行车"
+  },
+  {
+    "id": 445,
+    "name_en": "bikini, two-piece",
+    "name_cn": "比基尼, 两件式"
+  },
+  {
+    "id": 446,
+    "name_en": "binder, ring-binder",
+    "name_cn": "活页夹，环形活页夹"
+  },
+  {
+    "id": 447,
+    "name_en": "binoculars, field glasses, opera glasses",
+    "name_cn": "双筒望远镜、望远镜、望远镜"
+  },
+  {
+    "id": 448,
+    "name_en": "birdhouse",
+    "name_cn": "鸟舍"
+  },
+  {
+    "id": 449,
+    "name_en": "boathouse",
+    "name_cn": "船库"
+  },
+  {
+    "id": 450,
+    "name_en": "bobsled, bobsleigh, bob",
+    "name_cn": "有舵雪橇, 有舵雪橇, 鲍勃"
+  },
+  {
+    "id": 451,
+    "name_en": "bolo tie, bolo, bola tie, bola",
+    "name_cn": "波洛领带，波洛领带，波拉领带，波拉领带"
+  },
+  {
+    "id": 452,
+    "name_en": "bonnet, poke bonnet",
+    "name_cn": "帽子，戳帽子"
+  },
+  {
+    "id": 453,
+    "name_en": "bookcase",
+    "name_cn": "书柜"
+  },
+  {
+    "id": 454,
+    "name_en": "bookshop, bookstore, bookstall",
+    "name_cn": "书店，书店，书摊"
+  },
+  {
+    "id": 455,
+    "name_en": "bottlecap",
+    "name_cn": "瓶盖"
+  },
+  {
+    "id": 456,
+    "name_en": "bow",
+    "name_cn": "弓"
+  },
+  {
+    "id": 457,
+    "name_en": "bow tie, bow-tie, bowtie",
+    "name_cn": "领结，领结，领结"
+  },
+  {
+    "id": 458,
+    "name_en": "brass, memorial tablet, plaque",
+    "name_cn": "黄铜、牌位、牌匾"
+  },
+  {
+    "id": 459,
+    "name_en": "brassiere, bra, bandeau",
+    "name_cn": "胸罩, 胸罩, 抹胸"
+  },
+  {
+    "id": 460,
+    "name_en": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+    "name_cn": "防波堤、腹股沟、防波堤、鼹鼠、舷墙、海堤、码头"
+  },
+  {
+    "id": 461,
+    "name_en": "breastplate, aegis, egis",
+    "name_cn": "胸甲、神盾、神盾"
+  },
+  {
+    "id": 462,
+    "name_en": "broom",
+    "name_cn": "扫帚"
+  },
+  {
+    "id": 463,
+    "name_en": "bucket, pail",
+    "name_cn": "桶，桶"
+  },
+  {
+    "id": 464,
+    "name_en": "buckle",
+    "name_cn": "扣上"
+  },
+  {
+    "id": 465,
+    "name_en": "bulletproof vest",
+    "name_cn": "防弹背心"
+  },
+  {
+    "id": 466,
+    "name_en": "bullet train, bullet",
+    "name_cn": "子弹头列车，子弹头列车"
+  },
+  {
+    "id": 467,
+    "name_en": "butcher shop, meat market",
+    "name_cn": "肉店、肉类市场"
+  },
+  {
+    "id": 468,
+    "name_en": "cab, hack, taxi, taxicab",
+    "name_cn": "出租车, 黑客, 出租车, 出租车"
+  },
+  {
+    "id": 469,
+    "name_en": "caldron, cauldron",
+    "name_cn": "大锅，大锅"
+  },
+  {
+    "id": 470,
+    "name_en": "candle, taper, wax light",
+    "name_cn": "蜡烛，锥度，蜡灯"
+  },
+  {
+    "id": 471,
+    "name_en": "cannon",
+    "name_cn": "大炮"
+  },
+  {
+    "id": 472,
+    "name_en": "canoe",
+    "name_cn": "独木舟"
+  },
+  {
+    "id": 473,
+    "name_en": "can opener, tin opener",
+    "name_cn": "开罐器，开罐器"
+  },
+  {
+    "id": 474,
+    "name_en": "cardigan",
+    "name_cn": "开襟衫"
+  },
+  {
+    "id": 475,
+    "name_en": "car mirror",
+    "name_cn": "汽车镜"
+  },
+  {
+    "id": 476,
+    "name_en": "carousel, carrousel, merry-go-round, roundabout, whirligig",
+    "name_cn": "旋转木马, 旋转木马, 旋转木马, 旋转木马, 旋转木马"
+  },
+  {
+    "id": 477,
+    "name_en": "carpenter's kit, tool kit",
+    "name_cn": "木匠工具箱，工具箱"
+  },
+  {
+    "id": 478,
+    "name_en": "carton",
+    "name_cn": "纸盒"
+  },
+  {
+    "id": 479,
+    "name_en": "car wheel",
+    "name_cn": "汽车车轮"
+  },
+  {
+    "id": 480,
+    "name_en": "cash machine, cash dispenser, automated teller machine, automatic teller chine, automated teller, automatic teller, ATM',",
+    "name_cn": "提款机、自动提款机、自动柜员机、自动柜员机、自动柜员机、自动柜员机、ATM'、"
+  },
+  {
+    "id": 481,
+    "name_en": "cassette",
+    "name_cn": "盒式磁带"
+  },
+  {
+    "id": 482,
+    "name_en": "cassette player",
+    "name_cn": "卡式录音机"
+  },
+  {
+    "id": 483,
+    "name_en": "castle",
+    "name_cn": "城堡"
+  },
+  {
+    "id": 484,
+    "name_en": "catamaran",
+    "name_cn": "双体船"
+  },
+  {
+    "id": 485,
+    "name_en": "CD player",
+    "name_cn": "激光唱机"
+  },
+  {
+    "id": 486,
+    "name_en": "cello, violoncello",
+    "name_cn": "大提琴，大提琴"
+  },
+  {
+    "id": 487,
+    "name_en": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+    "name_cn": "移动电话, 移动电话, 手机, 手机, 移动电话"
+  },
+  {
+    "id": 488,
+    "name_en": "chain",
+    "name_cn": "链"
+  },
+  {
+    "id": 489,
+    "name_en": "chainlink fence",
+    "name_cn": "铁丝网围栏"
+  },
+  {
+    "id": 490,
+    "name_en": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring mour',",
+    "name_cn": "链甲，环甲，邮件，链甲，链甲，环甲，环莫'，"
+  },
+  {
+    "id": 491,
+    "name_en": "chain saw, chainsaw",
+    "name_cn": "链锯，电锯"
+  },
+  {
+    "id": 492,
+    "name_en": "chest",
+    "name_cn": "胸部"
+  },
+  {
+    "id": 493,
+    "name_en": "chiffonier, commode",
+    "name_cn": "抽屉柜、马桶"
+  },
+  {
+    "id": 494,
+    "name_en": "chime, bell, gong",
+    "name_cn": "编钟、钟、锣"
+  },
+  {
+    "id": 495,
+    "name_en": "china cabinet, china closet",
+    "name_cn": "瓷器柜，瓷器衣柜"
+  },
+  {
+    "id": 496,
+    "name_en": "Christmas stocking",
+    "name_cn": "圣诞袜"
+  },
+  {
+    "id": 497,
+    "name_en": "church, church building",
+    "name_cn": "教堂，教堂建筑"
+  },
+  {
+    "id": 498,
+    "name_en": "cinema, movie theater, movie theatre, movie house, picture palace",
+    "name_cn": "电影院, 电影院, 电影院, 电影院, 电影院, 电影院"
+  },
+  {
+    "id": 499,
+    "name_en": "cleaver, meat cleaver, chopper",
+    "name_cn": "切肉刀，切肉刀，切肉刀"
+  },
+  {
+    "id": 500,
+    "name_en": "cliff dwelling",
+    "name_cn": "悬崖住宅"
+  },
+  {
+    "id": 501,
+    "name_en": "cloak",
+    "name_cn": "披风"
+  },
+  {
+    "id": 502,
+    "name_en": "clog, geta, patten, sabot",
+    "name_cn": "木屐、木屐、彭定康、木底鞋"
+  },
+  {
+    "id": 503,
+    "name_en": "cocktail shaker",
+    "name_cn": "鸡尾酒调酒器"
+  },
+  {
+    "id": 504,
+    "name_en": "coffee mug",
+    "name_cn": "咖啡杯"
+  },
+  {
+    "id": 505,
+    "name_en": "coffeepot",
+    "name_cn": "咖啡壶"
+  },
+  {
+    "id": 506,
+    "name_en": "coil, spiral, volute, whorl, helix",
+    "name_cn": "线圈、螺线、蜗壳、螺纹、螺旋线"
+  },
+  {
+    "id": 507,
+    "name_en": "combination lock",
+    "name_cn": "密码锁"
+  },
+  {
+    "id": 508,
+    "name_en": "computer keyboard, keypad",
+    "name_cn": "电脑键盘, 小键盘"
+  },
+  {
+    "id": 509,
+    "name_en": "confectionery, confectionary, candy store",
+    "name_cn": "糖果店, 糖果店, 糖果店"
+  },
+  {
+    "id": 510,
+    "name_en": "container ship, containership, container vessel",
+    "name_cn": "集装箱船, 集装箱船, 集装箱船"
+  },
+  {
+    "id": 511,
+    "name_en": "convertible",
+    "name_cn": "敞篷车"
+  },
+  {
+    "id": 512,
+    "name_en": "corkscrew, bottle screw",
+    "name_cn": "开瓶器，瓶塞螺丝"
+  },
+  {
+    "id": 513,
+    "name_en": "cornet, horn, trumpet, trump",
+    "name_cn": "短号, 号角, 小号, 王牌"
+  },
+  {
+    "id": 514,
+    "name_en": "cowboy boot",
+    "name_cn": "牛仔靴"
+  },
+  {
+    "id": 515,
+    "name_en": "cowboy hat, ten-gallon hat",
+    "name_cn": "牛仔帽、十加仑帽"
+  },
+  {
+    "id": 516,
+    "name_en": "cradle",
+    "name_cn": "摇篮"
+  },
+  {
+    "id": 517,
+    "name_en": "crane",
+    "name_cn": "起重机"
+  },
+  {
+    "id": 518,
+    "name_en": "crash helmet",
+    "name_cn": "防撞头盔"
+  },
+  {
+    "id": 519,
+    "name_en": "crate",
+    "name_cn": "箱"
+  },
+  {
+    "id": 520,
+    "name_en": "crib, cot",
+    "name_cn": "婴儿床，婴儿床"
+  },
+  {
+    "id": 521,
+    "name_en": "Crock Pot",
+    "name_cn": "瓦罐"
+  },
+  {
+    "id": 522,
+    "name_en": "croquet ball",
+    "name_cn": "槌球"
+  },
+  {
+    "id": 523,
+    "name_en": "crutch",
+    "name_cn": "拐杖"
+  },
+  {
+    "id": 524,
+    "name_en": "cuirass",
+    "name_cn": "胸甲"
+  },
+  {
+    "id": 525,
+    "name_en": "dam, dike, dyke",
+    "name_cn": "水坝, 堤坝, 堤坝"
+  },
+  {
+    "id": 526,
+    "name_en": "desk",
+    "name_cn": "桌子"
+  },
+  {
+    "id": 527,
+    "name_en": "desktop computer",
+    "name_cn": "台式电脑"
+  },
+  {
+    "id": 528,
+    "name_en": "dial telephone, dial phone",
+    "name_cn": "拨打电话，拨打电话"
+  },
+  {
+    "id": 529,
+    "name_en": "diaper, nappy, napkin",
+    "name_cn": "尿布, 尿布, 餐巾"
+  },
+  {
+    "id": 530,
+    "name_en": "digital clock",
+    "name_cn": "数字时钟"
+  },
+  {
+    "id": 531,
+    "name_en": "digital watch",
+    "name_cn": "数字手表"
+  },
+  {
+    "id": 532,
+    "name_en": "dining table, board",
+    "name_cn": "餐桌、餐板"
+  },
+  {
+    "id": 533,
+    "name_en": "dishrag, dishcloth",
+    "name_cn": "抹布，抹布"
+  },
+  {
+    "id": 534,
+    "name_en": "dishwasher, dish washer, dishwashing machine",
+    "name_cn": "洗碗机, 洗碗机, 洗碗机"
+  },
+  {
+    "id": 535,
+    "name_en": "disk brake, disc brake",
+    "name_cn": "盘式制动器, 盘式制动器"
+  },
+  {
+    "id": 536,
+    "name_en": "dock, dockage, docking facility",
+    "name_cn": "码头, 停泊处, 对接设施"
+  },
+  {
+    "id": 537,
+    "name_en": "dogsled, dog sled, dog sleigh",
+    "name_cn": "狗拉雪橇, 狗拉雪橇, 狗拉雪橇"
+  },
+  {
+    "id": 538,
+    "name_en": "dome",
+    "name_cn": "圆顶"
+  },
+  {
+    "id": 539,
+    "name_en": "doormat, welcome mat",
+    "name_cn": "门垫、迎宾垫"
+  },
+  {
+    "id": 540,
+    "name_en": "drilling platform, offshore rig",
+    "name_cn": "钻井平台、海上钻井平台"
+  },
+  {
+    "id": 541,
+    "name_en": "drum, membranophone, tympan",
+    "name_cn": "鼓、膜琴、鼓室"
+  },
+  {
+    "id": 542,
+    "name_en": "drumstick",
+    "name_cn": "鼓槌"
+  },
+  {
+    "id": 543,
+    "name_en": "dumbbell",
+    "name_cn": "哑铃"
+  },
+  {
+    "id": 544,
+    "name_en": "Dutch oven",
+    "name_cn": "荷兰烤箱"
+  },
+  {
+    "id": 545,
+    "name_en": "electric fan, blower",
+    "name_cn": "电风扇、鼓风机"
+  },
+  {
+    "id": 546,
+    "name_en": "electric guitar",
+    "name_cn": "电吉他"
+  },
+  {
+    "id": 547,
+    "name_en": "electric locomotive",
+    "name_cn": "电力机车"
+  },
+  {
+    "id": 548,
+    "name_en": "entertainment center",
+    "name_cn": "娱乐中心"
+  },
+  {
+    "id": 549,
+    "name_en": "envelope",
+    "name_cn": "信封"
+  },
+  {
+    "id": 550,
+    "name_en": "espresso maker",
+    "name_cn": "浓缩咖啡机"
+  },
+  {
+    "id": 551,
+    "name_en": "face powder",
+    "name_cn": "香粉"
+  },
+  {
+    "id": 552,
+    "name_en": "feather boa, boa",
+    "name_cn": "羽毛蟒蛇, 蟒蛇"
+  },
+  {
+    "id": 553,
+    "name_en": "file, file cabinet, filing cabinet",
+    "name_cn": "文件柜，文件柜，文件柜"
+  },
+  {
+    "id": 554,
+    "name_en": "fireboat",
+    "name_cn": "消防船"
+  },
+  {
+    "id": 555,
+    "name_en": "fire engine, fire truck",
+    "name_cn": "消防车, 消防车"
+  },
+  {
+    "id": 556,
+    "name_en": "fire screen, fireguard",
+    "name_cn": "防火屏，防火门"
+  },
+  {
+    "id": 557,
+    "name_en": "flagpole, flagstaff",
+    "name_cn": "旗杆，旗杆"
+  },
+  {
+    "id": 558,
+    "name_en": "flute, transverse flute",
+    "name_cn": "长笛、横笛"
+  },
+  {
+    "id": 559,
+    "name_en": "folding chair",
+    "name_cn": "折叠椅"
+  },
+  {
+    "id": 560,
+    "name_en": "football helmet",
+    "name_cn": "橄榄球头盔"
+  },
+  {
+    "id": 561,
+    "name_en": "forklift",
+    "name_cn": "叉车"
+  },
+  {
+    "id": 562,
+    "name_en": "fountain",
+    "name_cn": "喷泉"
+  },
+  {
+    "id": 563,
+    "name_en": "fountain pen",
+    "name_cn": "钢笔"
+  },
+  {
+    "id": 564,
+    "name_en": "four-poster",
+    "name_cn": "四海报"
+  },
+  {
+    "id": 565,
+    "name_en": "freight car",
+    "name_cn": "货车"
+  },
+  {
+    "id": 566,
+    "name_en": "French horn, horn",
+    "name_cn": "圆号、圆号"
+  },
+  {
+    "id": 567,
+    "name_en": "frying pan, frypan, skillet",
+    "name_cn": "煎锅，煎锅，煎锅"
+  },
+  {
+    "id": 568,
+    "name_en": "fur coat",
+    "name_cn": "毛皮大衣"
+  },
+  {
+    "id": 569,
+    "name_en": "garbage truck, dustcart",
+    "name_cn": "垃圾车、垃圾车"
+  },
+  {
+    "id": 570,
+    "name_en": "gasmask, respirator, gas helmet",
+    "name_cn": "防毒面具, 呼吸器, 防毒头盔"
+  },
+  {
+    "id": 571,
+    "name_en": "gas pump, gasoline pump, petrol pump, island dispenser",
+    "name_cn": "加油泵, 汽油泵, 汽油泵, 岛式加油机"
+  },
+  {
+    "id": 572,
+    "name_en": "goblet",
+    "name_cn": "高脚杯"
+  },
+  {
+    "id": 573,
+    "name_en": "go-kart",
+    "name_cn": "卡丁车"
+  },
+  {
+    "id": 574,
+    "name_en": "golf ball",
+    "name_cn": "高尔夫球"
+  },
+  {
+    "id": 575,
+    "name_en": "golfcart, golf cart",
+    "name_cn": "高尔夫球车, 高尔夫球车"
+  },
+  {
+    "id": 576,
+    "name_en": "gondola",
+    "name_cn": "贡多拉"
+  },
+  {
+    "id": 577,
+    "name_en": "gong, tam-tam",
+    "name_cn": "龚担担"
+  },
+  {
+    "id": 578,
+    "name_en": "gown",
+    "name_cn": "袍"
+  },
+  {
+    "id": 579,
+    "name_en": "grand piano, grand",
+    "name_cn": "大钢琴，大钢琴"
+  },
+  {
+    "id": 580,
+    "name_en": "greenhouse, nursery, glasshouse",
+    "name_cn": "温室, 苗圃, 温室"
+  },
+  {
+    "id": 581,
+    "name_en": "grille, radiator grille",
+    "name_cn": "格栅、散热器格栅"
+  },
+  {
+    "id": 582,
+    "name_en": "grocery store, grocery, food market, market",
+    "name_cn": "杂货店, 杂货店, 食品市场, 市场"
+  },
+  {
+    "id": 583,
+    "name_en": "guillotine",
+    "name_cn": "断头台"
+  },
+  {
+    "id": 584,
+    "name_en": "hair slide",
+    "name_cn": "头发滑梯"
+  },
+  {
+    "id": 585,
+    "name_en": "hair spray",
+    "name_cn": "发胶"
+  },
+  {
+    "id": 586,
+    "name_en": "half track",
+    "name_cn": "半轨"
+  },
+  {
+    "id": 587,
+    "name_en": "hammer",
+    "name_cn": "锤"
+  },
+  {
+    "id": 588,
+    "name_en": "hamper",
+    "name_cn": "阻碍"
+  },
+  {
+    "id": 589,
+    "name_en": "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+    "name_cn": "手持吹风机, 吹风机, 吹风机, 吹风机, 吹风机"
+  },
+  {
+    "id": 590,
+    "name_en": "hand-held computer, hand-held microcomputer",
+    "name_cn": "手持电脑, 手持式微型计算机"
+  },
+  {
+    "id": 591,
+    "name_en": "handkerchief, hankie, hanky, hankey",
+    "name_cn": "手帕，手帕，手帕，手帕，手帕"
+  },
+  {
+    "id": 592,
+    "name_en": "hard disc, hard disk, fixed disk",
+    "name_cn": "硬盘, 硬盘, 固定磁盘"
+  },
+  {
+    "id": 593,
+    "name_en": "harmonica, mouth organ, harp, mouth harp",
+    "name_cn": "口琴, 口风琴, 竖琴, 口琴"
+  },
+  {
+    "id": 594,
+    "name_en": "harp",
+    "name_cn": "竖琴"
+  },
+  {
+    "id": 595,
+    "name_en": "harvester, reaper",
+    "name_cn": "收割机，收割机"
+  },
+  {
+    "id": 596,
+    "name_en": "hatchet",
+    "name_cn": "斧头"
+  },
+  {
+    "id": 597,
+    "name_en": "holster",
+    "name_cn": "皮套"
+  },
+  {
+    "id": 598,
+    "name_en": "home theater, home theatre",
+    "name_cn": "家庭影院, 家庭影院"
+  },
+  {
+    "id": 599,
+    "name_en": "honeycomb",
+    "name_cn": "蜂窝"
+  },
+  {
+    "id": 600,
+    "name_en": "hook, claw",
+    "name_cn": "钩、爪"
+  },
+  {
+    "id": 601,
+    "name_en": "hoopskirt, crinoline",
+    "name_cn": "箍裙、衬裙"
+  },
+  {
+    "id": 602,
+    "name_en": "horizontal bar, high bar",
+    "name_cn": "单杠、高杠"
+  },
+  {
+    "id": 603,
+    "name_en": "horse cart, horse-cart",
+    "name_cn": "马车，马车"
+  },
+  {
+    "id": 604,
+    "name_en": "hourglass",
+    "name_cn": "滴漏"
+  },
+  {
+    "id": 605,
+    "name_en": "iPod",
+    "name_cn": "iPod"
+  },
+  {
+    "id": 606,
+    "name_en": "iron, smoothing iron",
+    "name_cn": "熨斗、熨斗"
+  },
+  {
+    "id": 607,
+    "name_en": "jack-o'-lantern",
+    "name_cn": "南瓜灯"
+  },
+  {
+    "id": 608,
+    "name_en": "jean, blue jean, denim",
+    "name_cn": "牛仔裤, 蓝色牛仔裤, 牛仔布"
+  },
+  {
+    "id": 609,
+    "name_en": "jeep, landrover",
+    "name_cn": "吉普车、路虎"
+  },
+  {
+    "id": 610,
+    "name_en": "jersey, T-shirt, tee shirt",
+    "name_cn": "球衣, T 恤, T 恤"
+  },
+  {
+    "id": 611,
+    "name_en": "jigsaw puzzle",
+    "name_cn": "拼图游戏"
+  },
+  {
+    "id": 612,
+    "name_en": "jinrikisha, ricksha, rickshaw",
+    "name_cn": "人力车, 人力车, 人力车"
+  },
+  {
+    "id": 613,
+    "name_en": "joystick",
+    "name_cn": "操纵杆"
+  },
+  {
+    "id": 614,
+    "name_en": "kimono",
+    "name_cn": "和服"
+  },
+  {
+    "id": 615,
+    "name_en": "knee pad",
+    "name_cn": "护膝"
+  },
+  {
+    "id": 616,
+    "name_en": "knot",
+    "name_cn": "结"
+  },
+  {
+    "id": 617,
+    "name_en": "lab coat, laboratory coat",
+    "name_cn": "实验室外套，实验室外套"
+  },
+  {
+    "id": 618,
+    "name_en": "ladle",
+    "name_cn": "钢包"
+  },
+  {
+    "id": 619,
+    "name_en": "lampshade, lamp shade",
+    "name_cn": "灯罩，灯罩"
+  },
+  {
+    "id": 620,
+    "name_en": "laptop, laptop computer",
+    "name_cn": "笔记本电脑, 笔记本电脑"
+  },
+  {
+    "id": 621,
+    "name_en": "lawn mower, mower",
+    "name_cn": "割草机，割草机"
+  },
+  {
+    "id": 622,
+    "name_en": "lens cap, lens cover",
+    "name_cn": "镜头盖、镜头盖"
+  },
+  {
+    "id": 623,
+    "name_en": "letter opener, paper knife, paperknife",
+    "name_cn": "开信刀、裁纸刀、裁纸刀"
+  },
+  {
+    "id": 624,
+    "name_en": "library",
+    "name_cn": "图书馆"
+  },
+  {
+    "id": 625,
+    "name_en": "lifeboat",
+    "name_cn": "救生艇"
+  },
+  {
+    "id": 626,
+    "name_en": "lighter, light, igniter, ignitor",
+    "name_cn": "打火机, 灯, 点火器, 点火器"
+  },
+  {
+    "id": 627,
+    "name_en": "limousine, limo",
+    "name_cn": "豪华轿车, 豪华轿车"
+  },
+  {
+    "id": 628,
+    "name_en": "liner, ocean liner",
+    "name_cn": "班轮, 远洋班轮"
+  },
+  {
+    "id": 629,
+    "name_en": "lipstick, lip rouge",
+    "name_cn": "口红、唇彩"
+  },
+  {
+    "id": 630,
+    "name_en": "Loafer",
+    "name_cn": "浪子"
+  },
+  {
+    "id": 631,
+    "name_en": "lotion",
+    "name_cn": "洗剂"
+  },
+  {
+    "id": 632,
+    "name_en": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+    "name_cn": "扬声器, 扬声器, 扬声器单元, 扬声器系统, 扬声器系统"
+  },
+  {
+    "id": 633,
+    "name_en": "loupe, jeweler's loupe",
+    "name_cn": "放大镜，珠宝放大镜"
+  },
+  {
+    "id": 634,
+    "name_en": "lumbermill, sawmill",
+    "name_cn": "伐木厂、锯木厂"
+  },
+  {
+    "id": 635,
+    "name_en": "magnetic compass",
+    "name_cn": "磁罗盘"
+  },
+  {
+    "id": 636,
+    "name_en": "mailbag, postbag",
+    "name_cn": "邮袋，邮袋"
+  },
+  {
+    "id": 637,
+    "name_en": "mailbox, letter box",
+    "name_cn": "邮箱，信箱"
+  },
+  {
+    "id": 638,
+    "name_en": "maillot",
+    "name_cn": "邮筒"
+  },
+  {
+    "id": 639,
+    "name_en": "maillot, tank suit",
+    "name_cn": "邮筒、坦克服"
+  },
+  {
+    "id": 640,
+    "name_en": "manhole cover",
+    "name_cn": "井盖"
+  },
+  {
+    "id": 641,
+    "name_en": "maraca",
+    "name_cn": "马拉卡"
+  },
+  {
+    "id": 642,
+    "name_en": "marimba, xylophone",
+    "name_cn": "马林巴琴、木琴"
+  },
+  {
+    "id": 643,
+    "name_en": "mask",
+    "name_cn": "面具"
+  },
+  {
+    "id": 644,
+    "name_en": "matchstick",
+    "name_cn": "火柴棍"
+  },
+  {
+    "id": 645,
+    "name_en": "maypole",
+    "name_cn": "五月柱"
+  },
+  {
+    "id": 646,
+    "name_en": "maze, labyrinth",
+    "name_cn": "迷宫，迷宫"
+  },
+  {
+    "id": 647,
+    "name_en": "measuring cup",
+    "name_cn": "量杯"
+  },
+  {
+    "id": 648,
+    "name_en": "medicine chest, medicine cabinet",
+    "name_cn": "药箱，药柜"
+  },
+  {
+    "id": 649,
+    "name_en": "megalith, megalithic structure",
+    "name_cn": "巨石, 巨石结构"
+  },
+  {
+    "id": 650,
+    "name_en": "microphone, mike",
+    "name_cn": "麦克风, 麦克风"
+  },
+  {
+    "id": 651,
+    "name_en": "microwave, microwave oven",
+    "name_cn": "微波炉，微波炉"
+  },
+  {
+    "id": 652,
+    "name_en": "military uniform",
+    "name_cn": "军装"
+  },
+  {
+    "id": 653,
+    "name_en": "milk can",
+    "name_cn": "牛奶罐"
+  },
+  {
+    "id": 654,
+    "name_en": "minibus",
+    "name_cn": "小巴"
+  },
+  {
+    "id": 655,
+    "name_en": "miniskirt, mini",
+    "name_cn": "迷你裙，迷你裙"
+  },
+  {
+    "id": 656,
+    "name_en": "minivan",
+    "name_cn": "小型货车"
+  },
+  {
+    "id": 657,
+    "name_en": "missile",
+    "name_cn": "导弹"
+  },
+  {
+    "id": 658,
+    "name_en": "mitten",
+    "name_cn": "手套"
+  },
+  {
+    "id": 659,
+    "name_en": "mixing bowl",
+    "name_cn": "搅拌碗"
+  },
+  {
+    "id": 660,
+    "name_en": "mobile home, manufactured home",
+    "name_cn": "移动房屋、活动房屋"
+  },
+  {
+    "id": 661,
+    "name_en": "Model T",
+    "name_cn": "T型"
+  },
+  {
+    "id": 662,
+    "name_en": "modem",
+    "name_cn": "调制解调器"
+  },
+  {
+    "id": 663,
+    "name_en": "monastery",
+    "name_cn": "修道院"
+  },
+  {
+    "id": 664,
+    "name_en": "monitor",
+    "name_cn": "监视器"
+  },
+  {
+    "id": 665,
+    "name_en": "moped",
+    "name_cn": "轻便摩托车"
+  },
+  {
+    "id": 666,
+    "name_en": "mortar",
+    "name_cn": "砂浆"
+  },
+  {
+    "id": 667,
+    "name_en": "mortarboard",
+    "name_cn": "学位帽"
+  },
+  {
+    "id": 668,
+    "name_en": "mosque",
+    "name_cn": "清真寺"
+  },
+  {
+    "id": 669,
+    "name_en": "mosquito net",
+    "name_cn": "蚊帐"
+  },
+  {
+    "id": 670,
+    "name_en": "motor scooter, scooter",
+    "name_cn": "小型摩托车、小型摩托车"
+  },
+  {
+    "id": 671,
+    "name_en": "mountain bike, all-terrain bike, off-roader",
+    "name_cn": "山地自行车、全地形自行车、越野车"
+  },
+  {
+    "id": 672,
+    "name_en": "mountain tent",
+    "name_cn": "山帐篷"
+  },
+  {
+    "id": 673,
+    "name_en": "mouse, computer mouse",
+    "name_cn": "鼠标，电脑鼠标"
+  },
+  {
+    "id": 674,
+    "name_en": "mousetrap",
+    "name_cn": "捕鼠器"
+  },
+  {
+    "id": 675,
+    "name_en": "moving van",
+    "name_cn": "搬家车"
+  },
+  {
+    "id": 676,
+    "name_en": "muzzle",
+    "name_cn": "枪口"
+  },
+  {
+    "id": 677,
+    "name_en": "nail",
+    "name_cn": "指甲"
+  },
+  {
+    "id": 678,
+    "name_en": "neck brace",
+    "name_cn": "颈托"
+  },
+  {
+    "id": 679,
+    "name_en": "necklace",
+    "name_cn": "项链"
+  },
+  {
+    "id": 680,
+    "name_en": "nipple",
+    "name_cn": "乳头"
+  },
+  {
+    "id": 681,
+    "name_en": "notebook, notebook computer",
+    "name_cn": "笔记本，笔记本电脑"
+  },
+  {
+    "id": 682,
+    "name_en": "obelisk",
+    "name_cn": "方尖碑"
+  },
+  {
+    "id": 683,
+    "name_en": "oboe, hautboy, hautbois",
+    "name_cn": "双簧管、hautboy、hautbois"
+  },
+  {
+    "id": 684,
+    "name_en": "ocarina, sweet potato",
+    "name_cn": "陶笛、红薯"
+  },
+  {
+    "id": 685,
+    "name_en": "odometer, hodometer, mileometer, milometer",
+    "name_cn": "里程表, 里程表, 里程表, 里程表"
+  },
+  {
+    "id": 686,
+    "name_en": "oil filter",
+    "name_cn": "油过滤器"
+  },
+  {
+    "id": 687,
+    "name_en": "organ, pipe organ",
+    "name_cn": "风琴，管风琴"
+  },
+  {
+    "id": 688,
+    "name_en": "oscilloscope, scope, cathode-ray oscilloscope, CRO",
+    "name_cn": "示波器、范围、阴极射线示波器、CRO"
+  },
+  {
+    "id": 689,
+    "name_en": "overskirt",
+    "name_cn": "罩裙"
+  },
+  {
+    "id": 690,
+    "name_en": "oxcart",
+    "name_cn": "牛车"
+  },
+  {
+    "id": 691,
+    "name_en": "oxygen mask",
+    "name_cn": "氧气面罩"
+  },
+  {
+    "id": 692,
+    "name_en": "packet",
+    "name_cn": "包"
+  },
+  {
+    "id": 693,
+    "name_en": "paddle, boat paddle",
+    "name_cn": "船桨，船桨"
+  },
+  {
+    "id": 694,
+    "name_en": "paddlewheel, paddle wheel",
+    "name_cn": "水轮, 明轮"
+  },
+  {
+    "id": 695,
+    "name_en": "padlock",
+    "name_cn": "挂锁"
+  },
+  {
+    "id": 696,
+    "name_en": "paintbrush",
+    "name_cn": "画笔"
+  },
+  {
+    "id": 697,
+    "name_en": "pajama, pyjama, pj's, jammies",
+    "name_cn": "睡衣, 睡衣, 睡衣, 睡衣"
+  },
+  {
+    "id": 698,
+    "name_en": "palace",
+    "name_cn": "宫殿"
+  },
+  {
+    "id": 699,
+    "name_en": "panpipe, pandean pipe, syrinx",
+    "name_cn": "排箫、潘迪安管、西林克斯"
+  },
+  {
+    "id": 700,
+    "name_en": "paper towel",
+    "name_cn": "纸巾"
+  },
+  {
+    "id": 701,
+    "name_en": "parachute, chute",
+    "name_cn": "降落伞，降落伞"
+  },
+  {
+    "id": 702,
+    "name_en": "parallel bars, bars",
+    "name_cn": "双杠、杠铃"
+  },
+  {
+    "id": 703,
+    "name_en": "park bench",
+    "name_cn": "公园长椅"
+  },
+  {
+    "id": 704,
+    "name_en": "parking meter",
+    "name_cn": "停车计时器"
+  },
+  {
+    "id": 705,
+    "name_en": "passenger car, coach, carriage",
+    "name_cn": "客车, 客车, 马车"
+  },
+  {
+    "id": 706,
+    "name_en": "patio, terrace",
+    "name_cn": "天井，露台"
+  },
+  {
+    "id": 707,
+    "name_en": "pay-phone, pay-station",
+    "name_cn": "付费电话, 付费站"
+  },
+  {
+    "id": 708,
+    "name_en": "pedestal, plinth, footstall",
+    "name_cn": "底座、底座、脚踏板"
+  },
+  {
+    "id": 709,
+    "name_en": "pencil box, pencil case",
+    "name_cn": "铅笔盒，铅笔盒"
+  },
+  {
+    "id": 710,
+    "name_en": "pencil sharpener",
+    "name_cn": "卷笔刀"
+  },
+  {
+    "id": 711,
+    "name_en": "perfume, essence",
+    "name_cn": "香水、香精"
+  },
+  {
+    "id": 712,
+    "name_en": "Petri dish",
+    "name_cn": "培养皿"
+  },
+  {
+    "id": 713,
+    "name_en": "photocopier",
+    "name_cn": "复印机"
+  },
+  {
+    "id": 714,
+    "name_en": "pick, plectrum, plectron",
+    "name_cn": "拨片、拨片、拨片"
+  },
+  {
+    "id": 715,
+    "name_en": "pickelhaube",
+    "name_cn": "皮克尔豪伯"
+  },
+  {
+    "id": 716,
+    "name_en": "picket fence, paling",
+    "name_cn": "栅栏、栅栏"
+  },
+  {
+    "id": 717,
+    "name_en": "pickup, pickup truck",
+    "name_cn": "皮卡车，皮卡车"
+  },
+  {
+    "id": 718,
+    "name_en": "pier",
+    "name_cn": "码头"
+  },
+  {
+    "id": 719,
+    "name_en": "piggy bank, penny bank",
+    "name_cn": "存钱罐, 便士银行"
+  },
+  {
+    "id": 720,
+    "name_en": "pill bottle",
+    "name_cn": "药瓶"
+  },
+  {
+    "id": 721,
+    "name_en": "pillow",
+    "name_cn": "枕头"
+  },
+  {
+    "id": 722,
+    "name_en": "ping-pong ball",
+    "name_cn": "乒乓球"
+  },
+  {
+    "id": 723,
+    "name_en": "pinwheel",
+    "name_cn": "风车"
+  },
+  {
+    "id": 724,
+    "name_en": "pirate, pirate ship",
+    "name_cn": "海盗, 海盗船"
+  },
+  {
+    "id": 725,
+    "name_en": "pitcher, ewer",
+    "name_cn": "水罐，水壶"
+  },
+  {
+    "id": 726,
+    "name_en": "plane, carpenter's plane, woodworking plane",
+    "name_cn": "刨子, 木工刨子, 木工刨子"
+  },
+  {
+    "id": 727,
+    "name_en": "planetarium",
+    "name_cn": "天文馆"
+  },
+  {
+    "id": 728,
+    "name_en": "plastic bag",
+    "name_cn": "塑料袋"
+  },
+  {
+    "id": 729,
+    "name_en": "plate rack",
+    "name_cn": "盘架"
+  },
+  {
+    "id": 730,
+    "name_en": "plow, plough",
+    "name_cn": "犁，犁"
+  },
+  {
+    "id": 731,
+    "name_en": "plunger, plumber's helper",
+    "name_cn": "柱塞，水管工的帮手"
+  },
+  {
+    "id": 732,
+    "name_en": "Polaroid camera, Polaroid Land camera",
+    "name_cn": "宝丽来相机、宝丽来陆地相机"
+  },
+  {
+    "id": 733,
+    "name_en": "pole",
+    "name_cn": "极"
+  },
+  {
+    "id": 734,
+    "name_en": "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",
+    "name_cn": "警车, 警车, 稻田车, 巡逻车, 货车, 黑玛丽亚"
+  },
+  {
+    "id": 735,
+    "name_en": "poncho",
+    "name_cn": "雨披"
+  },
+  {
+    "id": 736,
+    "name_en": "pool table, billiard table, snooker table",
+    "name_cn": "台球桌、台球桌、斯诺克台"
+  },
+  {
+    "id": 737,
+    "name_en": "pop bottle, soda bottle",
+    "name_cn": "汽水瓶、汽水瓶"
+  },
+  {
+    "id": 738,
+    "name_en": "pot, flowerpot",
+    "name_cn": "花盆，花盆"
+  },
+  {
+    "id": 739,
+    "name_en": "potter's wheel",
+    "name_cn": "陶工轮"
+  },
+  {
+    "id": 740,
+    "name_en": "power drill",
+    "name_cn": "电钻"
+  },
+  {
+    "id": 741,
+    "name_en": "prayer rug, prayer mat",
+    "name_cn": "祈祷毯，祈祷垫"
+  },
+  {
+    "id": 742,
+    "name_en": "printer",
+    "name_cn": "打印机"
+  },
+  {
+    "id": 743,
+    "name_en": "prison, prison house",
+    "name_cn": "监狱, 牢房"
+  },
+  {
+    "id": 744,
+    "name_en": "projectile, missile",
+    "name_cn": "射弹，导弹"
+  },
+  {
+    "id": 745,
+    "name_en": "projector",
+    "name_cn": "投影仪"
+  },
+  {
+    "id": 746,
+    "name_en": "puck, hockey puck",
+    "name_cn": "冰球, 冰球"
+  },
+  {
+    "id": 747,
+    "name_en": "punching bag, punch bag, punching ball, punchball",
+    "name_cn": "沙袋，沙袋，沙袋，沙袋，沙袋"
+  },
+  {
+    "id": 748,
+    "name_en": "purse",
+    "name_cn": "钱包"
+  },
+  {
+    "id": 749,
+    "name_en": "quill, quill pen",
+    "name_cn": "鹅毛笔，鹅毛笔"
+  },
+  {
+    "id": 750,
+    "name_en": "quilt, comforter, comfort, puff",
+    "name_cn": "被子,被子,舒适,蓬松"
+  },
+  {
+    "id": 751,
+    "name_en": "racer, race car, racing car",
+    "name_cn": "赛车手, 赛车, 赛车"
+  },
+  {
+    "id": 752,
+    "name_en": "racket, racquet",
+    "name_cn": "球拍，球拍"
+  },
+  {
+    "id": 753,
+    "name_en": "radiator",
+    "name_cn": "散热器"
+  },
+  {
+    "id": 754,
+    "name_en": "radio, wireless",
+    "name_cn": "无线电、无线"
+  },
+  {
+    "id": 755,
+    "name_en": "radio telescope, radio reflector",
+    "name_cn": "射电望远镜、射电反射镜"
+  },
+  {
+    "id": 756,
+    "name_en": "rain barrel",
+    "name_cn": "雨桶"
+  },
+  {
+    "id": 757,
+    "name_en": "recreational vehicle, RV, R.V.",
+    "name_cn": "休闲车、RV、R.V."
+  },
+  {
+    "id": 758,
+    "name_en": "reel",
+    "name_cn": "卷轴"
+  },
+  {
+    "id": 759,
+    "name_en": "reflex camera",
+    "name_cn": "反光相机"
+  },
+  {
+    "id": 760,
+    "name_en": "refrigerator, icebox",
+    "name_cn": "冰箱、冰柜"
+  },
+  {
+    "id": 761,
+    "name_en": "remote control, remote",
+    "name_cn": "遥控，遥控"
+  },
+  {
+    "id": 762,
+    "name_en": "restaurant, eating house, eating place, eatery",
+    "name_cn": "餐馆, 餐馆, 吃饭的地方, 餐馆"
+  },
+  {
+    "id": 763,
+    "name_en": "revolver, six-gun, six-shooter",
+    "name_cn": "左轮手枪、六枪、六发手枪"
+  },
+  {
+    "id": 764,
+    "name_en": "rifle",
+    "name_cn": "步枪"
+  },
+  {
+    "id": 765,
+    "name_en": "rocking chair, rocker",
+    "name_cn": "摇椅，摇椅"
+  },
+  {
+    "id": 766,
+    "name_en": "rotisserie",
+    "name_cn": "烤肉店"
+  },
+  {
+    "id": 767,
+    "name_en": "rubber eraser, rubber, pencil eraser",
+    "name_cn": "橡皮擦，橡皮擦，铅笔擦"
+  },
+  {
+    "id": 768,
+    "name_en": "rugby ball",
+    "name_cn": "橄榄球"
+  },
+  {
+    "id": 769,
+    "name_en": "rule, ruler",
+    "name_cn": "规则，统治者"
+  },
+  {
+    "id": 770,
+    "name_en": "running shoe",
+    "name_cn": "跑鞋"
+  },
+  {
+    "id": 771,
+    "name_en": "safe",
+    "name_cn": "安全的"
+  },
+  {
+    "id": 772,
+    "name_en": "safety pin",
+    "name_cn": "安全别针"
+  },
+  {
+    "id": 773,
+    "name_en": "saltshaker, salt shaker",
+    "name_cn": "盐瓶，盐瓶"
+  },
+  {
+    "id": 774,
+    "name_en": "sandal",
+    "name_cn": "凉鞋"
+  },
+  {
+    "id": 775,
+    "name_en": "sarong",
+    "name_cn": "纱笼"
+  },
+  {
+    "id": 776,
+    "name_en": "sax, saxophone",
+    "name_cn": "萨克斯管，萨克斯管"
+  },
+  {
+    "id": 777,
+    "name_en": "scabbard",
+    "name_cn": "刀鞘"
+  },
+  {
+    "id": 778,
+    "name_en": "scale, weighing machine",
+    "name_cn": "秤、称重机"
+  },
+  {
+    "id": 779,
+    "name_en": "school bus",
+    "name_cn": "校车"
+  },
+  {
+    "id": 780,
+    "name_en": "schooner",
+    "name_cn": "大篷车"
+  },
+  {
+    "id": 781,
+    "name_en": "scoreboard",
+    "name_cn": "记分牌"
+  },
+  {
+    "id": 782,
+    "name_en": "screen, CRT screen",
+    "name_cn": "屏幕、CRT屏幕"
+  },
+  {
+    "id": 783,
+    "name_en": "screw",
+    "name_cn": "拧紧"
+  },
+  {
+    "id": 784,
+    "name_en": "screwdriver",
+    "name_cn": "螺丝刀"
+  },
+  {
+    "id": 785,
+    "name_en": "seat belt, seatbelt",
+    "name_cn": "安全带，安全带"
+  },
+  {
+    "id": 786,
+    "name_en": "sewing machine",
+    "name_cn": "缝纫机"
+  },
+  {
+    "id": 787,
+    "name_en": "shield, buckler",
+    "name_cn": "盾牌，圆盾"
+  },
+  {
+    "id": 788,
+    "name_en": "shoe shop, shoe-shop, shoe store",
+    "name_cn": "鞋店, 鞋店, 鞋店"
+  },
+  {
+    "id": 789,
+    "name_en": "shoji",
+    "name_cn": "商事"
+  },
+  {
+    "id": 790,
+    "name_en": "shopping basket",
+    "name_cn": "购物篮"
+  },
+  {
+    "id": 791,
+    "name_en": "shopping cart",
+    "name_cn": "购物车"
+  },
+  {
+    "id": 792,
+    "name_en": "shovel",
+    "name_cn": "铲"
+  },
+  {
+    "id": 793,
+    "name_en": "shower cap",
+    "name_cn": "浴帽"
+  },
+  {
+    "id": 794,
+    "name_en": "shower curtain",
+    "name_cn": "浴帘"
+  },
+  {
+    "id": 795,
+    "name_en": "ski",
+    "name_cn": "滑雪"
+  },
+  {
+    "id": 796,
+    "name_en": "ski mask",
+    "name_cn": "滑雪面罩"
+  },
+  {
+    "id": 797,
+    "name_en": "sleeping bag",
+    "name_cn": "睡袋"
+  },
+  {
+    "id": 798,
+    "name_en": "slide rule, slipstick",
+    "name_cn": "计算尺，滑尺"
+  },
+  {
+    "id": 799,
+    "name_en": "sliding door",
+    "name_cn": "推拉门"
+  },
+  {
+    "id": 800,
+    "name_en": "slot, one-armed bandit",
+    "name_cn": "槽，独臂强盗"
+  },
+  {
+    "id": 801,
+    "name_en": "snorkel",
+    "name_cn": "通气管"
+  },
+  {
+    "id": 802,
+    "name_en": "snowmobile",
+    "name_cn": "雪地摩托"
+  },
+  {
+    "id": 803,
+    "name_en": "snowplow, snowplough",
+    "name_cn": "扫雪机，扫雪机"
+  },
+  {
+    "id": 804,
+    "name_en": "soap dispenser",
+    "name_cn": "皂液器"
+  },
+  {
+    "id": 805,
+    "name_en": "soccer ball",
+    "name_cn": "足球"
+  },
+  {
+    "id": 806,
+    "name_en": "sock",
+    "name_cn": "短袜"
+  },
+  {
+    "id": 807,
+    "name_en": "solar dish, solar collector, solar furnace",
+    "name_cn": "太阳能碟式太阳能集热器、太阳能炉"
+  },
+  {
+    "id": 808,
+    "name_en": "sombrero",
+    "name_cn": "阔边帽"
+  },
+  {
+    "id": 809,
+    "name_en": "soup bowl",
+    "name_cn": "汤碗"
+  },
+  {
+    "id": 810,
+    "name_en": "space bar",
+    "name_cn": "空格键"
+  },
+  {
+    "id": 811,
+    "name_en": "space heater",
+    "name_cn": "小型供暖器"
+  },
+  {
+    "id": 812,
+    "name_en": "space shuttle",
+    "name_cn": "航天飞机"
+  },
+  {
+    "id": 813,
+    "name_en": "spatula",
+    "name_cn": "抹刀"
+  },
+  {
+    "id": 814,
+    "name_en": "speedboat",
+    "name_cn": "快艇"
+  },
+  {
+    "id": 815,
+    "name_en": "spider web, spider's web",
+    "name_cn": "蜘蛛网，蜘蛛网"
+  },
+  {
+    "id": 816,
+    "name_en": "spindle",
+    "name_cn": "主轴"
+  },
+  {
+    "id": 817,
+    "name_en": "sports car, sport car",
+    "name_cn": "跑车, 跑车"
+  },
+  {
+    "id": 818,
+    "name_en": "spotlight, spot",
+    "name_cn": "聚光灯，聚光灯"
+  },
+  {
+    "id": 819,
+    "name_en": "stage",
+    "name_cn": "阶段"
+  },
+  {
+    "id": 820,
+    "name_en": "steam locomotive",
+    "name_cn": "蒸汽机车"
+  },
+  {
+    "id": 821,
+    "name_en": "steel arch bridge",
+    "name_cn": "钢拱桥"
+  },
+  {
+    "id": 822,
+    "name_en": "steel drum",
+    "name_cn": "钢桶"
+  },
+  {
+    "id": 823,
+    "name_en": "stethoscope",
+    "name_cn": "听诊器"
+  },
+  {
+    "id": 824,
+    "name_en": "stole",
+    "name_cn": "偷"
+  },
+  {
+    "id": 825,
+    "name_en": "stone wall",
+    "name_cn": "石墙"
+  },
+  {
+    "id": 826,
+    "name_en": "stopwatch, stop watch",
+    "name_cn": "秒表，秒表"
+  },
+  {
+    "id": 827,
+    "name_en": "stove",
+    "name_cn": "火炉"
+  },
+  {
+    "id": 828,
+    "name_en": "strainer",
+    "name_cn": "过滤器"
+  },
+  {
+    "id": 829,
+    "name_en": "streetcar, tram, tramcar, trolley, trolley car",
+    "name_cn": "有轨电车, 有轨电车, 有轨电车, 电车, 无轨电车"
+  },
+  {
+    "id": 830,
+    "name_en": "stretcher",
+    "name_cn": "担架"
+  },
+  {
+    "id": 831,
+    "name_en": "studio couch, day bed",
+    "name_cn": "工作室沙发、沙发床"
+  },
+  {
+    "id": 832,
+    "name_en": "stupa, tope",
+    "name_cn": "佛塔、塔顶"
+  },
+  {
+    "id": 833,
+    "name_en": "submarine, pigboat, sub, U-boat",
+    "name_cn": "潜艇, 猪艇, 潜艇, U 型潜艇"
+  },
+  {
+    "id": 834,
+    "name_en": "suit, suit of clothes",
+    "name_cn": "西装，一套衣服"
+  },
+  {
+    "id": 835,
+    "name_en": "sundial",
+    "name_cn": "晷"
+  },
+  {
+    "id": 836,
+    "name_en": "sunglass",
+    "name_cn": "太阳镜"
+  },
+  {
+    "id": 837,
+    "name_en": "sunglasses, dark glasses, shades",
+    "name_cn": "太阳镜、墨镜、墨镜"
+  },
+  {
+    "id": 838,
+    "name_en": "sunscreen, sunblock, sun blocker",
+    "name_cn": "防晒霜, 防晒霜, 防晒霜"
+  },
+  {
+    "id": 839,
+    "name_en": "suspension bridge",
+    "name_cn": "吊桥"
+  },
+  {
+    "id": 840,
+    "name_en": "swab, swob, mop",
+    "name_cn": "拭子，拭子，拖把"
+  },
+  {
+    "id": 841,
+    "name_en": "sweatshirt",
+    "name_cn": "运动衫"
+  },
+  {
+    "id": 842,
+    "name_en": "swimming trunks, bathing trunks",
+    "name_cn": "泳裤、游泳裤"
+  },
+  {
+    "id": 843,
+    "name_en": "swing",
+    "name_cn": "摇摆"
+  },
+  {
+    "id": 844,
+    "name_en": "switch, electric switch, electrical switch",
+    "name_cn": "开关, 电气开关, 电气开关"
+  },
+  {
+    "id": 845,
+    "name_en": "syringe",
+    "name_cn": "注射器"
+  },
+  {
+    "id": 846,
+    "name_en": "table lamp",
+    "name_cn": "台灯"
+  },
+  {
+    "id": 847,
+    "name_en": "tank, army tank, armored combat vehicle, armoured combat vehicle",
+    "name_cn": "坦克, 陆军坦克, 装甲战车, 装甲战车"
+  },
+  {
+    "id": 848,
+    "name_en": "tape player",
+    "name_cn": "磁带播放器"
+  },
+  {
+    "id": 849,
+    "name_en": "teapot",
+    "name_cn": "茶壶"
+  },
+  {
+    "id": 850,
+    "name_en": "teddy, teddy bear",
+    "name_cn": "泰迪熊，泰迪熊"
+  },
+  {
+    "id": 851,
+    "name_en": "television, television system",
+    "name_cn": "电视，电视系统"
+  },
+  {
+    "id": 852,
+    "name_en": "tennis ball",
+    "name_cn": "网球"
+  },
+  {
+    "id": 853,
+    "name_en": "thatch, thatched roof",
+    "name_cn": "茅草，茅草屋顶"
+  },
+  {
+    "id": 854,
+    "name_en": "theater curtain, theatre curtain",
+    "name_cn": "剧院幕布，剧院幕布"
+  },
+  {
+    "id": 855,
+    "name_en": "thimble",
+    "name_cn": "顶针"
+  },
+  {
+    "id": 856,
+    "name_en": "thresher, thrasher, threshing machine",
+    "name_cn": "脱粒机, 脱粒机, 脱粒机"
+  },
+  {
+    "id": 857,
+    "name_en": "throne",
+    "name_cn": "王座"
+  },
+  {
+    "id": 858,
+    "name_en": "tile roof",
+    "name_cn": "瓦屋顶"
+  },
+  {
+    "id": 859,
+    "name_en": "toaster",
+    "name_cn": "烤面包机"
+  },
+  {
+    "id": 860,
+    "name_en": "tobacco shop, tobacconist shop, tobacconist",
+    "name_cn": "烟草店, 烟草店, 烟草店"
+  },
+  {
+    "id": 861,
+    "name_en": "toilet seat",
+    "name_cn": "马桶座圈"
+  },
+  {
+    "id": 862,
+    "name_en": "torch",
+    "name_cn": "火炬"
+  },
+  {
+    "id": 863,
+    "name_en": "totem pole",
+    "name_cn": "图腾柱"
+  },
+  {
+    "id": 864,
+    "name_en": "tow truck, tow car, wrecker",
+    "name_cn": "拖车、拖车、清障车"
+  },
+  {
+    "id": 865,
+    "name_en": "toyshop",
+    "name_cn": "玩具店"
+  },
+  {
+    "id": 866,
+    "name_en": "tractor",
+    "name_cn": "拖拉机"
+  },
+  {
+    "id": 867,
+    "name_en": "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, sem,",
+    "name_cn": "拖车、牵引车、卡车运输设备、钻机、铰接式卡车、SEM、"
+  },
+  {
+    "id": 868,
+    "name_en": "tray",
+    "name_cn": "托盘"
+  },
+  {
+    "id": 869,
+    "name_en": "trench coat",
+    "name_cn": "风衣"
+  },
+  {
+    "id": 870,
+    "name_en": "tricycle, trike, velocipede",
+    "name_cn": "三轮车, 三轮车, 自行车"
+  },
+  {
+    "id": 871,
+    "name_en": "trimaran",
+    "name_cn": "三体船"
+  },
+  {
+    "id": 872,
+    "name_en": "tripod",
+    "name_cn": "三脚架"
+  },
+  {
+    "id": 873,
+    "name_en": "triumphal arch",
+    "name_cn": "凯旋门"
+  },
+  {
+    "id": 874,
+    "name_en": "trolleybus, trolley coach, trackless trolley",
+    "name_cn": "无轨电车、无轨电车、无轨电车"
+  },
+  {
+    "id": 875,
+    "name_en": "trombone",
+    "name_cn": "长号"
+  },
+  {
+    "id": 876,
+    "name_en": "tub, vat",
+    "name_cn": "浴缸、大桶"
+  },
+  {
+    "id": 877,
+    "name_en": "turnstile",
+    "name_cn": "十字转门"
+  },
+  {
+    "id": 878,
+    "name_en": "typewriter keyboard",
+    "name_cn": "打字机键盘"
+  },
+  {
+    "id": 879,
+    "name_en": "umbrella",
+    "name_cn": "伞"
+  },
+  {
+    "id": 880,
+    "name_en": "unicycle, monocycle",
+    "name_cn": "独轮车, 独轮车"
+  },
+  {
+    "id": 881,
+    "name_en": "upright, upright piano",
+    "name_cn": "立式钢琴，立式钢琴"
+  },
+  {
+    "id": 882,
+    "name_en": "vacuum, vacuum cleaner",
+    "name_cn": "真空吸尘器，吸尘器"
+  },
+  {
+    "id": 883,
+    "name_en": "vase",
+    "name_cn": "花瓶"
+  },
+  {
+    "id": 884,
+    "name_en": "vault",
+    "name_cn": "拱顶"
+  },
+  {
+    "id": 885,
+    "name_en": "velvet",
+    "name_cn": "天鹅绒"
+  },
+  {
+    "id": 886,
+    "name_en": "vending machine",
+    "name_cn": "售货机"
+  },
+  {
+    "id": 887,
+    "name_en": "vestment",
+    "name_cn": "法衣"
+  },
+  {
+    "id": 888,
+    "name_en": "viaduct",
+    "name_cn": "高架桥"
+  },
+  {
+    "id": 889,
+    "name_en": "violin, fiddle",
+    "name_cn": "小提琴、小提琴"
+  },
+  {
+    "id": 890,
+    "name_en": "volleyball",
+    "name_cn": "排球"
+  },
+  {
+    "id": 891,
+    "name_en": "waffle iron",
+    "name_cn": "华夫饼熨斗"
+  },
+  {
+    "id": 892,
+    "name_en": "wall clock",
+    "name_cn": "挂钟"
+  },
+  {
+    "id": 893,
+    "name_en": "wallet, billfold, notecase, pocketbook",
+    "name_cn": "钱包，皮夹，笔记本，皮夹"
+  },
+  {
+    "id": 894,
+    "name_en": "wardrobe, closet, press",
+    "name_cn": "衣柜，壁橱，压力机"
+  },
+  {
+    "id": 895,
+    "name_en": "warplane, military plane",
+    "name_cn": "战机, 军用飞机"
+  },
+  {
+    "id": 896,
+    "name_en": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+    "name_cn": "洗脸盆, 洗手盆, 洗脸盆, 盥洗盆, 洗手盆"
+  },
+  {
+    "id": 897,
+    "name_en": "washer, automatic washer, washing machine",
+    "name_cn": "洗衣机, 自动洗衣机, 洗衣机"
+  },
+  {
+    "id": 898,
+    "name_en": "water bottle",
+    "name_cn": "水瓶"
+  },
+  {
+    "id": 899,
+    "name_en": "water jug",
+    "name_cn": "水壶"
+  },
+  {
+    "id": 900,
+    "name_en": "water tower",
+    "name_cn": "水塔"
+  },
+  {
+    "id": 901,
+    "name_en": "whiskey jug",
+    "name_cn": "威士忌壶"
+  },
+  {
+    "id": 902,
+    "name_en": "whistle",
+    "name_cn": "哨"
+  },
+  {
+    "id": 903,
+    "name_en": "wig",
+    "name_cn": "假发"
+  },
+  {
+    "id": 904,
+    "name_en": "window screen",
+    "name_cn": "窗纱"
+  },
+  {
+    "id": 905,
+    "name_en": "window shade",
+    "name_cn": "窗帘"
+  },
+  {
+    "id": 906,
+    "name_en": "Windsor tie",
+    "name_cn": "温莎领带"
+  },
+  {
+    "id": 907,
+    "name_en": "wine bottle",
+    "name_cn": "酒瓶"
+  },
+  {
+    "id": 908,
+    "name_en": "wing",
+    "name_cn": "翼"
+  },
+  {
+    "id": 909,
+    "name_en": "wok",
+    "name_cn": "炒锅"
+  },
+  {
+    "id": 910,
+    "name_en": "wooden spoon",
+    "name_cn": "木勺"
+  },
+  {
+    "id": 911,
+    "name_en": "wool, woolen, woollen",
+    "name_cn": "羊毛的，羊毛的，羊毛的"
+  },
+  {
+    "id": 912,
+    "name_en": "worm fence, snake fence, snake-rail fence, Virginia fence",
+    "name_cn": "虫栅栏、蛇栅栏、蛇轨栅栏、弗吉尼亚栅栏"
+  },
+  {
+    "id": 913,
+    "name_en": "wreck",
+    "name_cn": "破坏"
+  },
+  {
+    "id": 914,
+    "name_en": "yawl",
+    "name_cn": "偏航"
+  },
+  {
+    "id": 915,
+    "name_en": "yurt",
+    "name_cn": "蒙古包"
+  },
+  {
+    "id": 916,
+    "name_en": "web site, website, internet site, site",
+    "name_cn": "网站、网站、互联网网站、网站"
+  },
+  {
+    "id": 917,
+    "name_en": "comic book",
+    "name_cn": "漫画书"
+  },
+  {
+    "id": 918,
+    "name_en": "crossword puzzle, crossword",
+    "name_cn": "填字游戏，填字游戏"
+  },
+  {
+    "id": 919,
+    "name_en": "street sign",
+    "name_cn": "路牌"
+  },
+  {
+    "id": 920,
+    "name_en": "traffic light, traffic signal, stoplight",
+    "name_cn": "交通信号灯, 交通信号灯, 红绿灯"
+  },
+  {
+    "id": 921,
+    "name_en": "book jacket, dust cover, dust jacket, dust wrapper",
+    "name_cn": "书套，防尘套，防尘套，防尘包装"
+  },
+  {
+    "id": 922,
+    "name_en": "menu",
+    "name_cn": "菜单"
+  },
+  {
+    "id": 923,
+    "name_en": "plate",
+    "name_cn": "盘子"
+  },
+  {
+    "id": 924,
+    "name_en": "guacamole",
+    "name_cn": "鳄梨酱"
+  },
+  {
+    "id": 925,
+    "name_en": "consomme",
+    "name_cn": "清汤"
+  },
+  {
+    "id": 926,
+    "name_en": "hot pot, hotpot",
+    "name_cn": "火锅，火锅"
+  },
+  {
+    "id": 927,
+    "name_en": "trifle",
+    "name_cn": "琐事"
+  },
+  {
+    "id": 928,
+    "name_en": "ice cream, icecream",
+    "name_cn": "冰淇淋，冰淇淋"
+  },
+  {
+    "id": 929,
+    "name_en": "ice lolly, lolly, lollipop, popsicle",
+    "name_cn": "冰棒、棒棒糖、棒棒糖、棒棒糖"
+  },
+  {
+    "id": 930,
+    "name_en": "French loaf",
+    "name_cn": "法式面包"
+  },
+  {
+    "id": 931,
+    "name_en": "bagel, beigel",
+    "name_cn": "百吉饼，贝格尔饼"
+  },
+  {
+    "id": 932,
+    "name_en": "pretzel",
+    "name_cn": "椒盐卷饼"
+  },
+  {
+    "id": 933,
+    "name_en": "cheeseburger",
+    "name_cn": "芝士汉堡"
+  },
+  {
+    "id": 934,
+    "name_en": "hotdog, hot dog, red hot",
+    "name_cn": "热狗，热狗，红热"
+  },
+  {
+    "id": 935,
+    "name_en": "mashed potato",
+    "name_cn": "土豆泥"
+  },
+  {
+    "id": 936,
+    "name_en": "head cabbage",
+    "name_cn": "白菜头"
+  },
+  {
+    "id": 937,
+    "name_en": "broccoli",
+    "name_cn": "西兰花"
+  },
+  {
+    "id": 938,
+    "name_en": "cauliflower",
+    "name_cn": "菜花"
+  },
+  {
+    "id": 939,
+    "name_en": "zucchini, courgette",
+    "name_cn": "西葫芦、西葫芦"
+  },
+  {
+    "id": 940,
+    "name_en": "spaghetti squash",
+    "name_cn": "意大利面南瓜"
+  },
+  {
+    "id": 941,
+    "name_en": "acorn squash",
+    "name_cn": "橡子南瓜"
+  },
+  {
+    "id": 942,
+    "name_en": "butternut squash",
+    "name_cn": "胡桃南瓜"
+  },
+  {
+    "id": 943,
+    "name_en": "cucumber, cuke",
+    "name_cn": "黄瓜，黄瓜"
+  },
+  {
+    "id": 944,
+    "name_en": "artichoke, globe artichoke",
+    "name_cn": "朝鲜蓟、朝鲜蓟"
+  },
+  {
+    "id": 945,
+    "name_en": "bell pepper",
+    "name_cn": "灯笼椒"
+  },
+  {
+    "id": 946,
+    "name_en": "cardoon",
+    "name_cn": "菜蓟"
+  },
+  {
+    "id": 947,
+    "name_en": "mushroom",
+    "name_cn": "蘑菇"
+  },
+  {
+    "id": 948,
+    "name_en": "Granny Smith",
+    "name_cn": "史密斯婆婆"
+  },
+  {
+    "id": 949,
+    "name_en": "strawberry",
+    "name_cn": "草莓"
+  },
+  {
+    "id": 950,
+    "name_en": "orange",
+    "name_cn": "橙子"
+  },
+  {
+    "id": 951,
+    "name_en": "lemon",
+    "name_cn": "柠檬"
+  },
+  {
+    "id": 952,
+    "name_en": "fig",
+    "name_cn": "如图"
+  },
+  {
+    "id": 953,
+    "name_en": "pineapple, ananas",
+    "name_cn": "菠萝、凤梨"
+  },
+  {
+    "id": 954,
+    "name_en": "banana",
+    "name_cn": "香蕉"
+  },
+  {
+    "id": 955,
+    "name_en": "jackfruit, jak, jack",
+    "name_cn": "菠萝蜜，杰克，杰克"
+  },
+  {
+    "id": 956,
+    "name_en": "custard apple",
+    "name_cn": "番荔枝"
+  },
+  {
+    "id": 957,
+    "name_en": "pomegranate",
+    "name_cn": "石榴"
+  },
+  {
+    "id": 958,
+    "name_en": "hay",
+    "name_cn": "干草"
+  },
+  {
+    "id": 959,
+    "name_en": "carbonara",
+    "name_cn": "卡纳纳拉"
+  },
+  {
+    "id": 960,
+    "name_en": "chocolate sauce, chocolate syrup",
+    "name_cn": "巧克力酱、巧克力糖浆"
+  },
+  {
+    "id": 961,
+    "name_en": "dough",
+    "name_cn": "面团"
+  },
+  {
+    "id": 962,
+    "name_en": "meat loaf, meatloaf",
+    "name_cn": "肉饼，肉饼"
+  },
+  {
+    "id": 963,
+    "name_en": "pizza, pizza pie",
+    "name_cn": "披萨, 披萨饼"
+  },
+  {
+    "id": 964,
+    "name_en": "potpie",
+    "name_cn": "馅饼"
+  },
+  {
+    "id": 965,
+    "name_en": "burrito",
+    "name_cn": "墨西哥卷饼"
+  },
+  {
+    "id": 966,
+    "name_en": "red wine",
+    "name_cn": "红葡萄酒"
+  },
+  {
+    "id": 967,
+    "name_en": "espresso",
+    "name_cn": "浓缩咖啡"
+  },
+  {
+    "id": 968,
+    "name_en": "cup",
+    "name_cn": "杯子"
+  },
+  {
+    "id": 969,
+    "name_en": "eggnog",
+    "name_cn": "蛋酒"
+  },
+  {
+    "id": 970,
+    "name_en": "alp",
+    "name_cn": "阿尔卑斯山"
+  },
+  {
+    "id": 971,
+    "name_en": "bubble",
+    "name_cn": "气泡"
+  },
+  {
+    "id": 972,
+    "name_en": "cliff, drop, drop-off",
+    "name_cn": "悬崖, 跌落, 坠落"
+  },
+  {
+    "id": 973,
+    "name_en": "coral reef",
+    "name_cn": "珊瑚礁"
+  },
+  {
+    "id": 974,
+    "name_en": "geyser",
+    "name_cn": "喷泉"
+  },
+  {
+    "id": 975,
+    "name_en": "lakeside, lakeshore",
+    "name_cn": "湖边，湖岸"
+  },
+  {
+    "id": 976,
+    "name_en": "promontory, headland, head, foreland",
+    "name_cn": "海角, 岬角, 头, 前陆"
+  },
+  {
+    "id": 977,
+    "name_en": "sandbar, sand bar",
+    "name_cn": "沙洲, 沙洲"
+  },
+  {
+    "id": 978,
+    "name_en": "seashore, coast, seacoast, sea-coast",
+    "name_cn": "海滨、海岸、海岸、海岸"
+  },
+  {
+    "id": 979,
+    "name_en": "valley, vale",
+    "name_cn": "山谷，山谷"
+  },
+  {
+    "id": 980,
+    "name_en": "volcano",
+    "name_cn": "火山"
+  },
+  {
+    "id": 981,
+    "name_en": "ballplayer, baseball player",
+    "name_cn": "棒球运动员, 棒球运动员"
+  },
+  {
+    "id": 982,
+    "name_en": "groom, bridegroom",
+    "name_cn": "新郎，新郎"
+  },
+  {
+    "id": 983,
+    "name_en": "scuba diver",
+    "name_cn": "水肺潜水员"
+  },
+  {
+    "id": 984,
+    "name_en": "rapeseed",
+    "name_cn": "油菜籽"
+  },
+  {
+    "id": 985,
+    "name_en": "daisy",
+    "name_cn": "雏菊"
+  },
+  {
+    "id": 986,
+    "name_en": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripium parviflorum\",",
+    "name_cn": "黄色女士拖鞋，黄色女士拖鞋，Cypripedium calceolus，Cypripium parviflorum\"，"
+  },
+  {
+    "id": 987,
+    "name_en": "corn",
+    "name_cn": "玉米"
+  },
+  {
+    "id": 988,
+    "name_en": "acorn",
+    "name_cn": "橡子"
+  },
+  {
+    "id": 989,
+    "name_en": "hip, rose hip, rosehip",
+    "name_cn": "臀部, 玫瑰果, 玫瑰果"
+  },
+  {
+    "id": 990,
+    "name_en": "buckeye, horse chestnut, conker",
+    "name_cn": "七叶树、七叶树、七叶树"
+  },
+  {
+    "id": 991,
+    "name_en": "coral fungus",
+    "name_cn": "珊瑚菌"
+  },
+  {
+    "id": 992,
+    "name_en": "agaric",
+    "name_cn": "伞菌"
+  },
+  {
+    "id": 993,
+    "name_en": "gyromitra",
+    "name_cn": "回转体"
+  },
+  {
+    "id": 994,
+    "name_en": "stinkhorn, carrion fungus",
+    "name_cn": "臭角，腐肉真菌"
+  },
+  {
+    "id": 995,
+    "name_en": "earthstar",
+    "name_cn": "地球之星"
+  },
+  {
+    "id": 996,
+    "name_en": "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",
+    "name_cn": "林中母鸡、林中母鸡、猪苓、灰树花"
+  },
+  {
+    "id": 997,
+    "name_en": "bolete",
+    "name_cn": "牛肝菌"
+  },
+  {
+    "id": 998,
+    "name_en": "ear, spike, capitulum",
+    "name_cn": "耳、穗、头状花序"
+  },
+  {
+    "id": 999,
+    "name_en": "toilet tissue, toilet paper, bathroom tissue",
+    "name_cn": "厕纸，厕纸，卫生纸"
+  }
+]
